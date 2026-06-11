@@ -1,0 +1,124 @@
+'use client';
+
+import { useEffect, useState } from 'react';
+import Link from 'next/link';
+import { ArrowLeft, Plus, Trash2, Download, Loader2 } from 'lucide-react';
+import { supabase } from '@/lib/supabase';
+import { getStoredPin } from '@/lib/admin-pin';
+import PinGate from '@/components/PinGate';
+import type { Recipe } from '@/types';
+
+function AdminInner() {
+  const [recipes, setRecipes] = useState<Recipe[] | null>(null);
+  const [seeding, setSeeding] = useState(false);
+  const [seedMsg, setSeedMsg] = useState('');
+  const [search, setSearch] = useState('');
+
+  function reload() {
+    supabase
+      .from('recipes')
+      .select('*')
+      .order('drink', { ascending: true })
+      .then(({ data }) => setRecipes((data as Recipe[]) ?? []));
+  }
+
+  useEffect(reload, []);
+
+  async function runSeed() {
+    setSeeding(true);
+    setSeedMsg('');
+    const res = await fetch('/api/seed', {
+      method: 'POST',
+      headers: { 'x-admin-pin': getStoredPin() },
+    });
+    const data = await res.json();
+    setSeeding(false);
+    if (!res.ok) {
+      setSeedMsg(`Error: ${data.error}`);
+      return;
+    }
+    setSeedMsg(
+      data.inserted ? `Imported ${data.inserted} recipes.` : (data.message ?? 'Done.'),
+    );
+    reload();
+  }
+
+  async function deleteRecipe(id: string, name: string) {
+    if (!confirm(`Delete "${name}"? This can't be undone.`)) return;
+    const res = await fetch(`/api/recipes?id=${id}`, {
+      method: 'DELETE',
+      headers: { 'x-admin-pin': getStoredPin() },
+    });
+    if (res.ok) reload();
+    else alert('Failed to delete.');
+  }
+
+  const filtered = (recipes ?? []).filter((r) =>
+    r.drink.toLowerCase().includes(search.toLowerCase()),
+  );
+
+  return (
+    <main className="min-h-screen bg-cyan-50/40">
+      <div className="tri-stripe" />
+      <div className="mx-auto max-w-3xl px-4 py-8">
+        <Link href="/" className="mb-4 inline-flex items-center gap-1 text-sm text-ink-400 hover:text-ink-700">
+          <ArrowLeft size={16} /> All recipes
+        </Link>
+
+        <div className="mb-4 flex items-center justify-between">
+          <h1 className="text-2xl font-bold text-ink-700">Recipe editor</h1>
+          <Link href="/admin/new" className="btn-cyan flex items-center gap-2">
+            <Plus size={16} /> Add recipe
+          </Link>
+        </div>
+
+        {recipes && recipes.length === 0 && (
+          <div className="card mb-4 p-4">
+            <p className="mb-2 text-sm text-ink-600">
+              No recipes in the database yet. Import the 387 recipes from the Mela export to get started.
+            </p>
+            <button onClick={runSeed} disabled={seeding} className="btn-cyan flex items-center gap-2">
+              {seeding ? <Loader2 size={16} className="animate-spin" /> : <Download size={16} />}
+              Import from Mela
+            </button>
+            {seedMsg && <p className="mt-2 text-sm text-ink-500">{seedMsg}</p>}
+          </div>
+        )}
+
+        <input
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder="Search recipes to edit..."
+          className="input mb-3 w-full"
+        />
+
+        <div className="card divide-y divide-ink-100 overflow-hidden">
+          {filtered.map((r) => (
+            <div key={r.id} className="flex items-center justify-between gap-3 p-3">
+              <div className="min-w-0">
+                <div className="truncate font-semibold text-ink-700">{r.drink}</div>
+                <div className="truncate text-xs text-ink-400">{r.category || 'Uncategorized'}</div>
+              </div>
+              <div className="flex shrink-0 items-center gap-3">
+                <Link href={`/admin/${r.id}`} className="text-sm font-semibold text-cyan-500 hover:underline">
+                  Edit
+                </Link>
+                <button onClick={() => deleteRecipe(r.id, r.drink)} className="text-ink-300 hover:text-hibiscus-500">
+                  <Trash2 size={16} />
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </main>
+  );
+}
+
+export default function AdminPage() {
+  return (
+    <PinGate>
+      <AdminInner />
+    </PinGate>
+  );
+}
