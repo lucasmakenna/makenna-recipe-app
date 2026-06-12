@@ -2,10 +2,10 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, Plus, Trash2, Download, Loader2 } from 'lucide-react';
+import { ArrowLeft, Plus, Trash2, Download, Loader2, Eye, EyeOff } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 import { getStoredPin } from '@/lib/admin-pin';
-import PinGate from '@/components/PinGate';
+import AccessGate from '@/components/AccessGate';
 import type { Recipe } from '@/types';
 
 export const dynamic = 'force-dynamic';
@@ -55,6 +55,16 @@ function AdminInner() {
     else alert('Failed to delete.');
   }
 
+  async function toggleHidden(r: Recipe) {
+    const res = await fetch('/api/recipes', {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json', 'x-admin-pin': getStoredPin() },
+      body: JSON.stringify({ id: r.id, hidden: !r.hidden }),
+    });
+    if (res.ok) reload();
+    else alert('Failed to update.');
+  }
+
   const filtered = (recipes ?? []).filter((r) =>
     r.drink.toLowerCase().includes(search.toLowerCase()),
   );
@@ -96,12 +106,21 @@ function AdminInner() {
 
         <div className="card divide-y divide-ink-100 overflow-hidden">
           {filtered.map((r) => (
-            <div key={r.id} className="flex items-center justify-between gap-3 p-3">
+            <div key={r.id} className={`flex items-center justify-between gap-3 p-3 ${r.hidden ? 'opacity-50' : ''}`}>
               <div className="min-w-0">
-                <div className="truncate font-semibold text-ink-700">{r.drink}</div>
+                <div className="truncate font-semibold text-ink-700">
+                  {r.drink} {r.hidden && <span className="ml-1 text-xs font-normal text-hibiscus-500">(hidden)</span>}
+                </div>
                 <div className="truncate text-xs text-ink-400">{r.category || 'Uncategorized'}</div>
               </div>
               <div className="flex shrink-0 items-center gap-3">
+                <button
+                  onClick={() => toggleHidden(r)}
+                  title={r.hidden ? 'Unhide' : 'Hide'}
+                  className="text-ink-300 hover:text-cyan-500"
+                >
+                  {r.hidden ? <EyeOff size={16} /> : <Eye size={16} />}
+                </button>
                 <Link href={`/admin/${r.id}`} className="text-sm font-semibold text-cyan-500 hover:underline">
                   Edit
                 </Link>
@@ -119,8 +138,8 @@ function AdminInner() {
 
 export default function AdminPage() {
   return (
-    <PinGate>
-      <AdminInner />
-    </PinGate>
+    <AccessGate requiredRole="admin">
+      {() => <AdminInner />}
+    </AccessGate>
   );
 }

@@ -5,11 +5,20 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
-import type { Recipe } from '@/types';
+import AccessGate from '@/components/AccessGate';
+import type { Recipe, AccessRole } from '@/types';
 
 export const dynamic = 'force-dynamic';
 
 export default function RecipeDetail() {
+  return (
+    <AccessGate requiredRole="view">
+      {(role) => <RecipeDetailInner role={role} />}
+    </AccessGate>
+  );
+}
+
+function RecipeDetailInner({ role }: { role: AccessRole }) {
   const params = useParams();
   const id = params.id as string;
   const [recipe, setRecipe] = useState<Recipe | null | undefined>(undefined);
@@ -49,14 +58,16 @@ export default function RecipeDetail() {
             <pre className="whitespace-pre-wrap font-sans text-sm leading-relaxed text-ink-600">
               {recipe.recipe}
             </pre>
-            <div className="mt-6">
-              <Link
-                href={`/admin/${recipe.id}`}
-                className="text-xs font-semibold text-cyan-500 hover:underline"
-              >
-                Edit this recipe
-              </Link>
-            </div>
+            {role === 'admin' && (
+              <div className="mt-6">
+                <Link
+                  href={`/admin/${recipe.id}`}
+                  className="text-xs font-semibold text-cyan-500 hover:underline"
+                >
+                  Edit this recipe
+                </Link>
+              </div>
+            )}
           </div>
         )}
       </div>

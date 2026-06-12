@@ -2,13 +2,23 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { Search, Coffee, Settings } from 'lucide-react';
+import { Search, Coffee, Settings, Eye, EyeOff } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
-import type { Recipe } from '@/types';
+import { getStoredPin } from '@/lib/admin-pin';
+import AccessGate from '@/components/AccessGate';
+import type { Recipe, AccessRole } from '@/types';
 
 export const dynamic = 'force-dynamic';
 
 export default function Home() {
+  return (
+    <AccessGate requiredRole="view">
+      {(role) => <HomeInner role={role} />}
+    </AccessGate>
+  );
+}
+
+function HomeInner({ role }: { role: AccessRole }) {
   const [recipes, setRecipes] = useState<Recipe[] | null>(null);
   const [search, setSearch] = useState('');
   const [category, setCategory] = useState('all');
@@ -39,11 +49,23 @@ export default function Home() {
     if (!recipes) return [];
     const q = search.trim().toLowerCase();
     return recipes.filter((r) => {
+      if (role !== 'admin' && r.hidden) return false;
       if (category !== 'all' && (r.category || 'Uncategorized') !== category) return false;
       if (!q) return true;
       return r.drink.toLowerCase().includes(q) || r.recipe.toLowerCase().includes(q);
     });
-  }, [recipes, search, category]);
+  }, [recipes, search, category, role]);
+
+  async function toggleHidden(r: Recipe) {
+    const res = await fetch('/api/recipes', {
+      method: 'PATCH',
+      headers: { 'Content-Type': 'application/json', 'x-admin-pin': getStoredPin() },
+      body: JSON.stringify({ id: r.id, hidden: !r.hidden }),
+    });
+    if (res.ok) {
+      setRecipes((prev) => prev?.map((x) => (x.id === r.id ? { ...x, hidden: !r.hidden } : x)) ?? prev);
+    }
+  }
 
   // Letters that actually have recipes, for the A-Z jump column
   const availableLetters = useMemo(() => {
@@ -75,12 +97,14 @@ export default function Home() {
               {recipes ? `${recipes.length} recipes` : 'Loading…'}
             </p>
           </div>
-          <Link
-            href="/admin"
-            className="flex items-center gap-2 rounded-full border border-ink-200 px-4 py-2 text-sm font-semibold text-ink-600 hover:bg-white"
-          >
-            <Settings size={16} /> Edit recipes
-          </Link>
+          {role === 'admin' && (
+            <Link
+              href="/admin"
+              className="flex items-center gap-2 rounded-full border border-ink-200 px-4 py-2 text-sm font-semibold text-ink-600 hover:bg-white"
+            >
+              <Settings size={16} /> Edit recipes
+            </Link>
+          )}
         </div>
 
         <div className="mb-4 flex flex-col gap-2 sm:flex-row">
@@ -143,12 +167,23 @@ export default function Home() {
                 )}
                 <Link
                   href={`/recipe/${r.id}`}
-                  className="card flex items-center justify-between gap-3 p-4 transition hover:shadow-md hover:border-cyan-300"
+                  className={`card flex items-center justify-between gap-3 p-4 transition hover:shadow-md hover:border-cyan-300 ${r.hidden ? 'opacity-50' : ''}`}
                 >
                   <div className="min-w-0">
-                    <div className="truncate font-bold text-ink-700">{r.drink}</div>
+                    <div className="truncate font-bold text-ink-700">
+                      {r.drink} {r.hidden && <span className="ml-1 text-xs font-normal text-hibiscus-500">(hidden)</span>}
+                    </div>
                     <div className="truncate text-xs text-ink-400">{r.category || 'Uncategorized'}</div>
                   </div>
+                  {role === 'admin' && (
+                    <button
+                      onClick={(e) => { e.preventDefault(); toggleHidden(r); }}
+                      title={r.hidden ? 'Unhide' : 'Hide'}
+                      className="shrink-0 text-ink-300 hover:text-cyan-500"
+                    >
+                      {r.hidden ? <EyeOff size={16} /> : <Eye size={16} />}
+                    </button>
+                  )}
                 </Link>
               </div>
             );

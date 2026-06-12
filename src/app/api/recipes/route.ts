@@ -48,6 +48,24 @@ export async function PUT(req: NextRequest) {
   return NextResponse.json({ recipe: data });
 }
 
+// Toggle hidden (or any single-field tweak) without touching other fields
+export async function PATCH(req: NextRequest) {
+  if (!checkPin(req)) return NextResponse.json({ error: 'Invalid PIN' }, { status: 401 });
+  const body = await req.json();
+  const { id, hidden } = body;
+  if (!id) return NextResponse.json({ error: 'Missing id' }, { status: 400 });
+
+  const { data, error } = await adminClient()
+    .from('recipes')
+    .update({ hidden, updated_at: new Date().toISOString() })
+    .eq('id', id)
+    .select()
+    .single();
+
+  if (error) return NextResponse.json({ error: error.message }, { status: 500 });
+  return NextResponse.json({ recipe: data });
+}
+
 // Delete a recipe
 export async function DELETE(req: NextRequest) {
   if (!checkPin(req)) return NextResponse.json({ error: 'Invalid PIN' }, { status: 401 });

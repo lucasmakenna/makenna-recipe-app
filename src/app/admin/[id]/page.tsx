@@ -5,7 +5,7 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
-import PinGate from '@/components/PinGate';
+import AccessGate from '@/components/AccessGate';
 import RecipeForm from '@/components/RecipeForm';
 import type { Recipe } from '@/types';
 
@@ -49,8 +49,8 @@ function EditInner() {
 
 export default function EditRecipePage() {
   return (
-    <PinGate>
-      <EditInner />
-    </PinGate>
+    <AccessGate requiredRole="admin">
+      {() => <EditInner />}
+    </AccessGate>
   );
 }

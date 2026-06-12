@@ -3,5 +3,8 @@ export type Recipe = {
   drink: string;
   category: string;
   recipe: string;
+  hidden?: boolean;
   updated_at?: string;
 };
+
+export type AccessRole = 'view' | 'admin';

@@ -17,3 +17,6 @@ create policy "Public read access" on recipes
 
 -- No anon insert/update/delete — all writes go through the admin API route,
 -- which uses the service role key (bypasses RLS).
+
+-- Added for hide/show + view-only access feature
+alter table recipes add column if not exists hidden boolean not null default false;
