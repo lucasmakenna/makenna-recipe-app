@@ -79,7 +79,15 @@ function HomeInner({ role }: { role: AccessRole }) {
 
   function jumpTo(letter: string) {
     const el = document.getElementById(`letter-${letter}`);
-    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' });
+  }
+
+  // Lets users drag a finger up/down the A-Z column (like the iOS Contacts
+  // index) instead of having to precisely tap each tiny letter.
+  function handlePointer(e: React.PointerEvent<HTMLDivElement>) {
+    const target = document.elementFromPoint(e.clientX, e.clientY);
+    const letter = target?.getAttribute('data-letter');
+    if (letter && availableLetters.has(letter)) jumpTo(letter);
   }
 
   const ALPHABET = ['#', ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
@@ -195,22 +203,25 @@ function HomeInner({ role }: { role: AccessRole }) {
         )}
       </div>
 
-      {/* A-Z jump column */}
+      {/* A-Z jump column — fixed full-height strip, tap or drag to scrub */}
       {recipes && recipes.length > 0 && (
-        <div className="fixed right-1 top-1/2 z-10 flex -translate-y-1/2 flex-col items-center gap-[2px] rounded-full bg-white/80 px-1 py-2 shadow-md backdrop-blur">
+        <div
+          onPointerDown={handlePointer}
+          onPointerMove={(e) => e.buttons === 1 && handlePointer(e)}
+          className="fixed right-0 top-16 bottom-0 z-10 flex w-7 touch-none flex-col items-center justify-between rounded-l-lg bg-white/80 py-2 shadow-md backdrop-blur select-none"
+        >
           {ALPHABET.map((letter) => {
             const active = availableLetters.has(letter);
             return (
-              <button
+              <div
                 key={letter}
-                onClick={() => active && jumpTo(letter)}
-                disabled={!active}
-                className={`flex h-5 w-5 items-center justify-center rounded-full text-[10px] font-bold leading-none transition ${
-                  active ? 'text-cyan-600 hover:bg-cyan-100' : 'text-ink-200'
+                data-letter={letter}
+                className={`flex w-full flex-1 items-center justify-center text-[10px] font-bold leading-none ${
+                  active ? 'text-cyan-600' : 'text-ink-200'
                 }`}
               >
                 {letter}
-              </button>
+              </div>
             );
           })}
         </div>
