@@ -9,6 +9,8 @@ import PinGate from '@/components/PinGate';
 import RecipeForm from '@/components/RecipeForm';
 import type { Recipe } from '@/types';
 
+export const dynamic = 'force-dynamic';
+
 function EditInner() {
   const params = useParams();
   const id = params.id as string;

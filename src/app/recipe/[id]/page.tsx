@@ -7,6 +7,8 @@ import { ArrowLeft } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 import type { Recipe } from '@/types';
 
+export const dynamic = 'force-dynamic';
+
 export default function RecipeDetail() {
   const params = useParams();
   const id = params.id as string;

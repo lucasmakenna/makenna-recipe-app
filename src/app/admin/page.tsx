@@ -8,6 +8,8 @@ import { getStoredPin } from '@/lib/admin-pin';
 import PinGate from '@/components/PinGate';
 import type { Recipe } from '@/types';
 
+export const dynamic = 'force-dynamic';
+
 function AdminInner() {
   const [recipes, setRecipes] = useState<Recipe[] | null>(null);
   const [seeding, setSeeding] = useState(false);

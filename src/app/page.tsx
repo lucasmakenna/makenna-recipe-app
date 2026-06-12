@@ -6,6 +6,8 @@ import { Search, Coffee, Settings } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 import type { Recipe } from '@/types';
 
+export const dynamic = 'force-dynamic';
+
 export default function Home() {
   const [recipes, setRecipes] = useState<Recipe[] | null>(null);
   const [search, setSearch] = useState('');
