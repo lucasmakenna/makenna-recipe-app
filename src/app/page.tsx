@@ -48,11 +48,24 @@ function HomeInner({ role }: { role: AccessRole }) {
   const filtered = useMemo(() => {
     if (!recipes) return [];
     const q = search.trim().toLowerCase();
-    return recipes.filter((r) => {
+    const matches = recipes.filter((r) => {
       if (role !== 'admin' && r.hidden) return false;
       if (category !== 'all' && (r.category || 'Uncategorized') !== category) return false;
       if (!q) return true;
       return r.drink.toLowerCase().includes(q) || r.recipe.toLowerCase().includes(q);
+    });
+
+    if (!q) return matches;
+
+    // When searching, prioritize matches in the drink name over matches that
+    // only appear in the recipe/ingredients, so e.g. "cookie" surfaces the
+    // "Cookie Butter Latte" before recipes that merely list "cookie" as an
+    // ingredient. Within each group, keep alphabetical order.
+    return [...matches].sort((a, b) => {
+      const aName = a.drink.toLowerCase().includes(q) ? 0 : 1;
+      const bName = b.drink.toLowerCase().includes(q) ? 0 : 1;
+      if (aName !== bName) return aName - bName;
+      return a.drink.localeCompare(b.drink);
     });
   }, [recipes, search, category, role]);
 
@@ -161,7 +174,9 @@ function HomeInner({ role }: { role: AccessRole }) {
           {filtered.map((r) => {
             const ch = r.drink.trim()[0]?.toUpperCase() ?? '';
             const letter = /[A-Z]/.test(ch) ? ch : '#';
-            const showHeader = letter !== lastLetter;
+            // Skip letter headers while searching — results are sorted by
+            // relevance, not alphabetically, so headers wouldn't make sense.
+            const showHeader = !search.trim() && letter !== lastLetter;
             lastLetter = letter;
             return (
               <div key={r.id} className="contents">
@@ -204,7 +219,7 @@ function HomeInner({ role }: { role: AccessRole }) {
       </div>
 
       {/* A-Z jump column — fixed full-height strip, tap or drag to scrub */}
-      {recipes && recipes.length > 0 && (
+      {recipes && recipes.length > 0 && !search.trim() && (
         <div
           onPointerDown={handlePointer}
           onPointerMove={(e) => e.buttons === 1 && handlePointer(e)}
