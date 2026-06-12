@@ -41,11 +41,14 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
   return (
     <main className="min-h-screen bg-cyan-50/40">
       <div className="tri-stripe" />
-      <div className="mx-auto max-w-2xl px-4 py-8">
-        <Link href="/" className="mb-4 inline-flex items-center gap-1 text-sm text-ink-400 hover:text-ink-700">
-          <ArrowLeft size={16} /> All recipes
-        </Link>
-
+      <div className="sticky top-0 z-20 border-b border-ink-100 bg-cyan-50/95 backdrop-blur">
+        <div className="mx-auto max-w-2xl px-4 py-3">
+          <Link href="/" className="inline-flex items-center gap-1 text-sm font-semibold text-ink-500 hover:text-ink-700">
+            <ArrowLeft size={16} /> All recipes
+          </Link>
+        </div>
+      </div>
+      <div className="mx-auto max-w-2xl px-4 py-6">
         {recipe === undefined && <p className="text-ink-400">Loading…</p>}
         {recipe === null && <p className="text-ink-400">Recipe not found.</p>}
 
