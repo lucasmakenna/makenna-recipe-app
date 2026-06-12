@@ -174,9 +174,7 @@ function HomeInner({ role }: { role: AccessRole }) {
           {filtered.map((r) => {
             const ch = r.drink.trim()[0]?.toUpperCase() ?? '';
             const letter = /[A-Z]/.test(ch) ? ch : '#';
-            // Skip letter headers while searching — results are sorted by
-            // relevance, not alphabetically, so headers wouldn't make sense.
-            const showHeader = !search.trim() && letter !== lastLetter;
+            const showHeader = letter !== lastLetter;
             lastLetter = letter;
             return (
               <div key={r.id} className="contents">
@@ -219,7 +217,7 @@ function HomeInner({ role }: { role: AccessRole }) {
       </div>
 
       {/* A-Z jump column — fixed full-height strip, tap or drag to scrub */}
-      {recipes && recipes.length > 0 && !search.trim() && (
+      {recipes && recipes.length > 0 && (
         <div
           onPointerDown={handlePointer}
           onPointerMove={(e) => e.buttons === 1 && handlePointer(e)}
