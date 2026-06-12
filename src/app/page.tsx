@@ -45,6 +45,25 @@ export default function Home() {
     });
   }, [recipes, search, category]);
 
+  // Letters that actually have recipes, for the A-Z jump column
+  const availableLetters = useMemo(() => {
+    const set = new Set<string>();
+    for (const r of filtered) {
+      const ch = r.drink.trim()[0]?.toUpperCase() ?? '';
+      set.add(/[A-Z]/.test(ch) ? ch : '#');
+    }
+    return set;
+  }, [filtered]);
+
+  function jumpTo(letter: string) {
+    const el = document.getElementById(`letter-${letter}`);
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  const ALPHABET = ['#', ...Array.from({ length: 26 }, (_, i) => String.fromCharCode(65 + i))];
+
+  let lastLetter = '';
+
   return (
     <main className="min-h-screen bg-cyan-50/40">
       <div className="tri-stripe" />
@@ -107,24 +126,60 @@ export default function Home() {
         )}
 
         <div className="grid gap-2 sm:grid-cols-2">
-          {filtered.map((r) => (
-            <Link
-              key={r.id}
-              href={`/recipe/${r.id}`}
-              className="card flex items-center justify-between gap-3 p-4 transition hover:shadow-md hover:border-cyan-300"
-            >
-              <div className="min-w-0">
-                <div className="truncate font-bold text-ink-700">{r.drink}</div>
-                <div className="truncate text-xs text-ink-400">{r.category || 'Uncategorized'}</div>
+          {filtered.map((r) => {
+            const ch = r.drink.trim()[0]?.toUpperCase() ?? '';
+            const letter = /[A-Z]/.test(ch) ? ch : '#';
+            const showHeader = letter !== lastLetter;
+            lastLetter = letter;
+            return (
+              <div key={r.id} className="contents">
+                {showHeader && (
+                  <div
+                    id={`letter-${letter}`}
+                    className="col-span-full mt-2 px-1 text-xs font-bold uppercase tracking-wide text-cyan-500"
+                  >
+                    {letter}
+                  </div>
+                )}
+                <Link
+                  href={`/recipe/${r.id}`}
+                  className="card flex items-center justify-between gap-3 p-4 transition hover:shadow-md hover:border-cyan-300"
+                >
+                  <div className="min-w-0">
+                    <div className="truncate font-bold text-ink-700">{r.drink}</div>
+                    <div className="truncate text-xs text-ink-400">{r.category || 'Uncategorized'}</div>
+                  </div>
+                </Link>
               </div>
-            </Link>
-          ))}
+            );
+          })}
         </div>
 
         {recipes && recipes.length > 0 && filtered.length === 0 && (
           <p className="mt-6 text-center text-sm text-ink-400">No recipes match your search.</p>
         )}
       </div>
+
+      {/* A-Z jump column */}
+      {recipes && recipes.length > 0 && (
+        <div className="fixed right-1 top-1/2 z-10 flex -translate-y-1/2 flex-col items-center gap-[2px] rounded-full bg-white/80 px-1 py-2 shadow-md backdrop-blur">
+          {ALPHABET.map((letter) => {
+            const active = availableLetters.has(letter);
+            return (
+              <button
+                key={letter}
+                onClick={() => active && jumpTo(letter)}
+                disabled={!active}
+                className={`flex h-5 w-5 items-center justify-center rounded-full text-[10px] font-bold leading-none transition ${
+                  active ? 'text-cyan-600 hover:bg-cyan-100' : 'text-ink-200'
+                }`}
+              >
+                {letter}
+              </button>
+            );
+          })}
+        </div>
+      )}
     </main>
   );
 }
