@@ -64,6 +64,12 @@ export default function AccessGate({
 
   return (
     <div className="mx-auto max-w-sm py-16 text-center">
+      <img
+        src="/logo.png"
+        srcSet="/logo.png 1x, /logo@2x.png 2x"
+        alt="Makenna Koffee Company"
+        className="mx-auto mb-4 h-16 w-16"
+      />
       <Lock size={28} className="mx-auto mb-3 text-ink-300" />
       <h1 className="mb-1 text-xl font-bold text-ink-700">
         {requiredRole === 'admin' ? 'Recipe editor' : 'Makenna Koffee Recipes'}
