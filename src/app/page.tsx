@@ -111,20 +111,18 @@ function HomeInner({ role }: { role: AccessRole }) {
     <main className="min-h-screen bg-cyan-50/40">
       <div className="tri-stripe" />
       <div className="mx-auto max-w-4xl px-4 py-8">
+        <img
+          src="/logo.png"
+          srcSet="/logo.png 1x, /logo@2x.png 2x"
+          alt="Makenna Koffee Company"
+          className="mx-auto mb-4 h-auto w-40 object-contain"
+        />
         <div className="mb-6 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <img
-              src="/logo.png"
-              srcSet="/logo.png 1x, /logo@2x.png 2x"
-              alt="Makenna Koffee Company"
-              className="h-12 w-12 shrink-0"
-            />
-            <div>
-              <h1 className="text-3xl font-bold text-ink-700">Makenna Recipes</h1>
-              <p className="mt-1 text-sm text-ink-500">
-                {recipes ? `${recipes.length} recipes` : 'Loading…'}
-              </p>
-            </div>
+          <div>
+            <h1 className="text-3xl font-bold text-ink-700">Makenna Recipes</h1>
+            <p className="mt-1 text-sm text-ink-500">
+              {recipes ? `${recipes.length} recipes` : 'Loading…'}
+            </p>
           </div>
           {role === 'admin' && (
             <Link

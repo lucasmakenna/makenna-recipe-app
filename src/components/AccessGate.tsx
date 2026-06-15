@@ -68,7 +68,7 @@ export default function AccessGate({
         src="/logo.png"
         srcSet="/logo.png 1x, /logo@2x.png 2x"
         alt="Makenna Koffee Company"
-        className="mx-auto mb-4 h-16 w-16"
+        className="mx-auto mb-4 h-auto w-40 object-contain"
       />
       <Lock size={28} className="mx-auto mb-3 text-ink-300" />
       <h1 className="mb-1 text-xl font-bold text-ink-700">
