@@ -58,8 +58,8 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
               {recipe.category || 'Uncategorized'}
             </div>
             <h1 className="mb-4 text-2xl font-bold text-ink-700">{recipe.drink}</h1>
-            <pre className="whitespace-pre-wrap font-sans text-sm leading-relaxed text-ink-600">
-              {recipe.recipe}
+            <pre className="whitespace-pre-wrap font-sans text-sm leading-loose text-ink-600">
+              {recipe.recipe.replace(/\n/g, '\n\n')}
             </pre>
             {role === 'admin' && (
               <div className="mt-6">
