@@ -65,6 +65,27 @@ function AdminInner() {
     else alert('Failed to update.');
   }
 
+  function exportCsv() {
+    const rows = recipes ?? [];
+    const escape = (val: string) => `"${val.replace(/"/g, '""')}"`;
+    const header = ['Drink', 'Category', 'Recipe', 'Hidden'];
+    const lines = [
+      header.join(','),
+      ...rows.map((r) =>
+        [r.drink, r.category || 'Uncategorized', r.recipe, r.hidden ? 'TRUE' : 'FALSE']
+          .map(escape)
+          .join(','),
+      ),
+    ];
+    const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `makenna-recipes-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
   const filtered = (recipes ?? []).filter((r) =>
     r.drink.toLowerCase().includes(search.toLowerCase()),
   );
@@ -79,9 +100,18 @@ function AdminInner() {
 
         <div className="mb-4 flex items-center justify-between">
           <h1 className="text-2xl font-bold text-ink-700">Recipe editor</h1>
-          <Link href="/admin/new" className="btn-cyan flex items-center gap-2">
-            <Plus size={16} /> Add recipe
-          </Link>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={exportCsv}
+              disabled={!recipes?.length}
+              className="flex items-center gap-2 rounded-full border border-ink-200 px-4 py-2 text-sm font-semibold text-ink-600 hover:bg-white disabled:opacity-50"
+            >
+              <Download size={16} /> Export CSV
+            </button>
+            <Link href="/admin/new" className="btn-cyan flex items-center gap-2">
+              <Plus size={16} /> Add recipe
+            </Link>
+          </div>
         </div>
 
         {recipes && recipes.length === 0 && (
