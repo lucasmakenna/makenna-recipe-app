@@ -1,7 +1,8 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { Suspense, useEffect, useMemo, useState, useCallback } from 'react';
 import Link from 'next/link';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { Search, Coffee, Settings, Eye, EyeOff } from 'lucide-react';
 import { supabase } from '@/lib/supabase';
 import { getStoredPin } from '@/lib/admin-pin';
@@ -12,17 +13,29 @@ export const dynamic = 'force-dynamic';
 
 export default function Home() {
   return (
-    <AccessGate requiredRole="view">
-      {(role) => <HomeInner role={role} />}
-    </AccessGate>
+    <Suspense>
+      <AccessGate requiredRole="view">
+        {(role) => <HomeInner role={role} />}
+      </AccessGate>
+    </Suspense>
   );
 }
 
 function HomeInner({ role }: { role: AccessRole }) {
+  const router = useRouter();
+  const searchParams = useSearchParams();
   const [recipes, setRecipes] = useState<Recipe[] | null>(null);
-  const [search, setSearch] = useState('');
+  const [search, setSearch] = useState(searchParams.get('q') ?? '');
   const [category, setCategory] = useState('all');
   const [error, setError] = useState<string | null>(null);
+
+  const updateSearch = useCallback((value: string) => {
+    setSearch(value);
+    const params = new URLSearchParams(searchParams.toString());
+    if (value) params.set('q', value);
+    else params.delete('q');
+    router.replace(`?${params.toString()}`, { scroll: false });
+  }, [router, searchParams]);
 
   useEffect(() => {
     let cancelled = false;
@@ -48,22 +61,23 @@ function HomeInner({ role }: { role: AccessRole }) {
   const filtered = useMemo(() => {
     if (!recipes) return [];
     const q = search.trim().toLowerCase();
+    const words = q ? q.split(/\s+/).filter(Boolean) : [];
     const matches = recipes.filter((r) => {
       if (role !== 'admin' && r.hidden) return false;
       if (category !== 'all' && (r.category || 'Uncategorized') !== category) return false;
-      if (!q) return true;
-      return r.drink.toLowerCase().includes(q) || r.recipe.toLowerCase().includes(q);
+      if (!words.length) return true;
+      const name = r.drink.toLowerCase();
+      const recipe = r.recipe.toLowerCase();
+      return words.every((w) => name.includes(w) || recipe.includes(w));
     });
 
-    if (!q) return matches;
+    if (!words.length) return matches;
 
-    // When searching, prioritize matches in the drink name over matches that
-    // only appear in the recipe/ingredients, so e.g. "cookie" surfaces the
-    // "Cookie Butter Latte" before recipes that merely list "cookie" as an
-    // ingredient. Within each group, keep alphabetical order.
+    // Prioritize matches where all words appear in the drink name; fall back to recipe matches
     return [...matches].sort((a, b) => {
-      const aName = a.drink.toLowerCase().includes(q) ? 0 : 1;
-      const bName = b.drink.toLowerCase().includes(q) ? 0 : 1;
+      const name = (r: typeof a) => r.drink.toLowerCase();
+      const aName = words.every((w) => name(a).includes(w)) ? 0 : 1;
+      const bName = words.every((w) => name(b).includes(w)) ? 0 : 1;
       if (aName !== bName) return aName - bName;
       return a.drink.localeCompare(b.drink);
     });
@@ -139,7 +153,7 @@ function HomeInner({ role }: { role: AccessRole }) {
             <Search size={16} className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-ink-400" />
             <input
               value={search}
-              onChange={(e) => setSearch(e.target.value)}
+              onChange={(e) => updateSearch(e.target.value)}
               placeholder="Search by drink name or ingredient..."
               className="input w-full pl-9 text-base"
             />
