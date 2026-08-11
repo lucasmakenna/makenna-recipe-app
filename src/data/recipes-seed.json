@@ -105,13 +105,6 @@
     "hidden": false
   },
   {
-    "drink": "Red Hammer",
-    "recipe": "● Medium (16 oz)\nIn drink cup:\n2 pumps of raspberry syrup\n1 Makenna Energy Can\nTop off with ice\n\n● Large (24 oz)\nIn drink cup:\n3 pumps of raspberry syrup\n1 1/2 (one and a half) Makenna Energy Cans\nTop off with ice\n\n● X-tra Large (32 oz)\nIn drink cup:\n4 pumps of raspberry syrup\n2 Makenna Energy Cans\nTop off with ice",
-    "category": "Makenna Energy",
-    "mela_category": "Makenna Energy",
-    "hidden": false
-  },
-  {
     "drink": "Red Starburst",
     "recipe": "● Medium (16 oz)\nIn drink cup:\n2 pumps of watermelon syrup\n1 1/2 (one and a half) pumps of almond syrup\n1 Makenna Energy Can\nTop off with ice\n\n● Large (24 oz)\nIn drink cup:\n3 pumps of watermelon syrup\n2 1/2 (two and a half) pumps of almond syrup\n1 1/2 (one and a half) Makenna Energy Cans\nTop off with ice\n\n● X-tra Large (32 oz)\nIn drink cup:\n4 pumps of watermelon syrup\n3 pumps of almond syrup\n2 Makenna Energy Cans\nTop off with ice",
     "category": "Makenna Energy",
@@ -219,13 +212,6 @@
   {
     "drink": "Vanilla Chai Blended",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n2 scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n6 scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream",
-    "category": "Blended Chillers",
-    "mela_category": "Blended Chillers",
-    "hidden": false
-  },
-  {
-    "drink": "Spiced Chai Blended",
-    "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n2 scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n6 scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream",
     "category": "Blended Chillers",
     "mela_category": "Blended Chillers",
     "hidden": false
@@ -352,8 +338,8 @@
   {
     "drink": "Chocolate Chippy Chip",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n2 scoops of vanilla powder\n1 scoop of chocolate chips\n1/2 (one half) pumps of chocolate sauce\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nChocolate drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla powder\n2 scoops of chocolate chips\n1 pump of chocolate sauce\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nChocolate drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla powder\n3 scoops of chocolate chips\n1 1/2 (one and a half) pumps of chocolate sauce\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nChocolate drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n6 scoops of vanilla powder\n4 scoops of chocolate chips\n2 pumps of chocolate sauce\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nChocolate drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream",
-    "category": "Coffee Free Blended",
-    "mela_category": "Coffee Free Blended",
+    "category": "Freezes",
+    "mela_category": "Freezes",
     "hidden": false
   },
   {
@@ -366,497 +352,490 @@
   {
     "drink": "Cotton Candy",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n2 scoops of vanilla powder\n1 1/2 (one and a half) pumps of white chocolate sauce\nIn a measuring cup:\n2 pumps of blue raspberry syrup\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla powder\n2 pumps of white chocolate sauce\nIn a measuring cup:\n3 pumps of blue raspberry syrup\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla powder\n2 1/2 (two and a half) pumps of white chocolate sauce\nIn a measuring cup:\n4 pumps of blue raspberry syrup\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n6 scoops of vanilla powder\n4 pumps of white chocolate sauce\nIn a measuring cup:\n6 pumps of blue raspberry syrup\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream",
-    "category": "Coffee Free Blended",
-    "mela_category": "Coffee Free Blended",
+    "category": "Freezes",
+    "mela_category": "Freezes",
     "hidden": false
   },
   {
     "drink": "Shark Bite",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n5 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n8 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top",
-    "category": "Coffee Free Blended",
-    "mela_category": "Coffee Free Blended",
+    "category": "Freezes",
+    "mela_category": "Freezes",
     "hidden": false
   },
   {
     "drink": "The Drew Dog",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n5 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n8 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream",
-    "category": "Coffee Free Blended",
-    "mela_category": "Coffee Free Blended",
+    "category": "Freezes",
+    "mela_category": "Freezes",
     "hidden": false
   },
   {
     "drink": "Almond Blossom",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of cherry syrup\n1/2 (one half) pumps of almond syrup\n1 espresso shot\n2 oz of Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of cherry syrup\n1 pump of almond syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of cherry syrup\n1 1/2 (one and a half) pumps of almond syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of cherry syrup\n2 pumps of almond syrup\n4 espresso shots\n5 oz of Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Americano",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 espresso shots\nFill to 8 oz with cold water\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n3 espresso shots\nFill to 10 oz with cold water\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n4 espresso shots\nFill to 12 oz with cold water\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n6 espresso shots\nFill to 20 oz with cold water\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Breve",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\nFill to 8 oz with Half and Half\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\nFill to 10 oz with Half and Half\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\nFill to 12 oz with Half and Half\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\nFill to 20 oz with Half and Half\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Cabo San Lucas",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 pump of cinnamon syrup\n1 espresso shot\n2 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\nKona Cloud over top of drink\nSprinkle cinnamon\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of cinnamon syrup\n2 espresso shots\n4 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\nKona Cloud over top of drink\nSprinkle cinnamon\n\n● Large (24 oz)\nIn a measuring cup:\n3 pumps of cinnamon syrup\n2 espresso shots\n4 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\nKona Cloud over top of drink\nSprinkle cinnamon\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of cinnamon syrup\n4 espresso shots\n8 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice\nKona Cloud over top of drink\nSprinkle cinnamon",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Caramel Latte Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice\nAdd caramel drizzle around the rim",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Hawaiian Honey",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of coconut syrup\n1/4 (one quarter) pump of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nAdd honey drizzle around the rim\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of coconut syrup\n1/4 (one quarter) pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nAdd honey drizzle around the rim\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of coconut syrup\n1/4 (one quarter) pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nAdd honey drizzle around the rim\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of coconut syrup\n1/2 (one half) pump of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nAdd honey drizzle around the rim",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Hawaiian Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of macadamia nut syrup\n1/2 (one half) pumps of coconut syrup\n1 espresso shot\n2 oz of Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of macadamia nut syrup\n1 pump of coconut syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of macadamia nut syrup\n1 1/2 (one and a half) pumps of coconut syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of macadamia nut syrup\n2 pumps of coconut syrup\n4 espresso shots\n5 oz of Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Heart Attack",
     "recipe": "● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nAdd caramel over the top of the drink\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nAdd caramel over the top of the drink\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of caramel sauce\n6 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nAdd caramel over the top of the drink",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Hippie Goat",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of lavender syrup\n1/2 (one half) pumps of vanilla syrup\n1 espresso shot\nMilk of Choice to 8 oz\nPour over ice\n*If requested, add lavender buds\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of lavender syrup\n1 pump of vanilla syrup\n2 espresso shots\nMilk of Choice to 10 oz\nPour over ice\n*If requested, add lavender buds\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of lavender syrup\n1 1/2 (one and a half) pumps of vanilla syrup\n2 espresso shots\nMilk of Choice to 12 oz\nPour over ice\n*If requested, add lavender buds\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of lavender syrup\n2 pumps of vanilla syrup\n4 espresso shots\nMilk of Choice to 20 oz\nPour over ice\n*If requested, add lavender buds",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Jet Fuel",
     "recipe": "● Medium (16 oz)\nIn a measuring cup:\n4 pumps of irish cream syrup\n6 espresso shots\nFill to 10 oz with Half and Half\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n5 pumps of irish cream syrup\n6 espresso shots\nFill to 12 oz with Half and Half\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Kiss Me",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3 pumps of irish cream syrup\n1 espresso shot\nHalf and Half to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n4 pumps of irish cream syrup\n2 espresso shots\nHalf and Half to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n5 pumps of irish cream syrup\n2 espresso shots\nHalf and Half to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n8 pumps of irish cream syrup\n4 espresso shots\nHalf and Half to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Lavender Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 pumps of lavender syrup\n1 espresso shot\nMilk of Choice to 8 oz\nPour over ice\nAdd lavender buds if requested\n\n● Medium (16 oz)\nIn a measuring cup:\n3 pumps of lavender syrup\n2 espresso shots\nMilk of Choice to 10 oz\nPour over ice\nAdd lavender buds if requested\n\n● Large (24 oz)\nIn a measuring cup:\n4 pumps of lavender syrup\n2 espresso shots\nMilk of Choice to 12 oz\nPour over ice\nAdd lavender buds if requested\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n6 pumps of lavender syrup\n4 espresso shots\nMilk of Choice to 20 oz\nPour over ice\nAdd lavender buds if requested",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Mexican Mocha",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) scoops of mexican mocha powder\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mexican mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 scoop of mexican mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of mexican mocha powder\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Mocha",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/4 (one and a quarter) scoops of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of mocha powder\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "North Shore Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of chocolate macadamia nut syrup\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n2 pumps of chocolate macadamia nut syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n2 1/2 (two and a half) pumps of chocolate macadamia nut syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n4 pumps of chocolate macadamia nut syrup\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Nutty Irishman",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of irish cream syrup\n1/2 (one half) pumps of hazelnut syrup\n1 espresso shot\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of irish cream syrup\n1 pump of hazelnut syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of irish cream syrup\n1 1/2 (one and a half) pumps of hazelnut syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of irish cream syrup\n2 pumps of hazelnut syrup\n4 espresso shots\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Sandy Blonde",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nAdd 2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nAdd 5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nAdd caramel drizzle around the rim",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Sandy Brunette",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nAdd 2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nAdd Chocolate drizzle around the rim\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nAdd Chocolate drizzle around the rim\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of mocha powder\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nAdd Chocolate drizzle around the rim\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of mocha powder\n1 1/2 (one and a half) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nAdd 5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nAdd Chocolate drizzle around the rim",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Summer Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of vanilla powder\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "The Ben",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of chocolate macadamia nut syrup\n1/2 (one half) pumps of banana syrup\n1 espresso shot\n2 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of chocolate macadamia nut syrup\n1 pump of banana syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of chocolate macadamia nut syrup\n1 1/2 (one and a half) pumps of banana syrup\n2 espresso shots\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of chocolate macadamia nut syrup\n2 pumps of banana syrup\n4 espresso shots\n5 oz of Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "The Farris",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n1 pump of hazelnut syrup\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n2 pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/4 (one and a quarter) scoops of mocha powder\n2 1/2 (two and a half) pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of mocha powder\n4 pumps of hazelnut syrup\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "The Haylee",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of hazelnut syrup\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n2 pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n2 1/2 (two and a half) pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n4 pumps of hazelnut syrup\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "The Legend",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of vanilla syrup\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nAdd 2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of vanilla syrup\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of vanilla syrup\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nAdd caramel drizzle around the rim\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of vanilla syrup\n1 1/2 (one and a half) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nAdd 5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nAdd caramel drizzle around the rim",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "The Taylor",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of toasted marshmallow syrup\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n2 pumps of toasted marshmallow syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n2 1/2 (two and a half) pumps of toasted marshmallow syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n4 pumps of toasted marshmallow syrup\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Waikiki",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of vanilla syrup\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n2 pumps of vanilla syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n2 1/2 (two and a half) pumps of vanilla syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n4 pumps of vanilla syrup\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "White Chocolate Mocha",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Wipeout",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3 pumps of chocolate macadamia nut syrup\n1 espresso shot\nHalf and Half to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n4 pumps of chocolate macadamia nut syrup\n2 espresso shots\nHalf and Half to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n5 pumps of chocolate macadamia nut syrup\n2 espresso shots\nHalf and Half to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n8 pumps of chocolate macadamia nut syrup\n4 espresso shots\nHalf and Half to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Almond Blossom Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of cherry syrup\n1/2 (one half) pumps of almond syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Maui Milk\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of cherry syrup\n1 pump of almond syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of cherry syrup\n1 1/2 (one and a half) pumps of almond syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Americano Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 espresso shots\nFill with hot water to top\n\n● Medium (16 oz)\nIn a hot drink cup:\n3 espresso shots\nFill with hot water to top\n\n● Large (20 oz)\nIn a hot drink cup:\n4 espresso shots\nFill with hot water to top",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Breve Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 espresso shot\nIn a measuring cup:\nHalf and Half to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nHalf and Half to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nHalf and Half to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Cabo San Lucas Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 pump of cinnamon syrup\n1 espresso shot\nIn a measuring cup:\n2 oz of Maui Milk\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nKona Cloud over top of drink\nSprinkle cinnamon\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of cinnamon syrup\n2 espresso shots\nIn a measuring cup:\n4 oz of Maui Milk\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nKona Cloud over top of drink\nSprinkle cinnamon\n\n● Large (20 oz)\nIn a hot drink cup:\n3 pumps of cinnamon syrup\n2 espresso shots\nIn a measuring cup:\n4 oz of Maui Milk\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nKona Cloud over top of drink\nSprinkle cinnamon",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Caramel Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel over the top of the drink\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel over the top of the drink\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel over the top of the drink",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Hawaiian Honey Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of coconut syrup\n1/4 (one quarter) squirt of caramel (all sizes)\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd honey over the top of the drink\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of coconut syrup\n1/4 (one quarter) squirt of caramel (all sizes)\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd honey over the top of the drink\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of coconut syrup\n1/4 (one quarter) squirt of caramel (all sizes)\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd honey over the top of the drink",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Hawaiian Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 pump of macadamia nut syrup\n1/2 (one half) pumps of coconut syrup\n1 espresso shot\nIn a measuring cup:\n2 oz of Maui Milk\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of macadamia nut syrup\n1 pump of coconut syrup\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of macadamia nut syrup\n1 1/2 (one and a half) pumps of coconut syrup\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Heart Attack Hot",
     "recipe": "● Medium (16 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of white chocolate powder\n3/4 (three quarters) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel over the top of the drink\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of white chocolate powder\n1 pump of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel over the top of the drink",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Hippie Goat Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of lavender syrup\n1/4 (one quarter) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd lavender buds if requested\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of lavender syrup\n1/2 (one half) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd lavender buds if requested\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of lavender syrup\n3/4 (three quarters) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd lavender buds if requested",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Jet Fuel Hot",
     "recipe": "● Medium (16 oz)\nIn a hot drink cup:\n4 pumps of irish cream syrup\n6 espresso shots\nIn a measuring cup:\nHalf and Half to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n5 pumps of irish cream syrup\n6 espresso shots\nIn a measuring cup:\nHalf and Half to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Kiss Me Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3 pumps of irish cream syrup\n1 espresso shot\nIn a measuring cup:\nHalf and Half to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n4 pumps of irish cream syrup\n2 espresso shots\nIn a measuring cup:\nHalf and Half to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n5 pumps of irish cream syrup\n2 espresso shots\nIn a measuring cup:\nHalf and Half to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 espresso shot\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Lavender Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 pumps of lavender syrup\n1 espresso shot\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd lavender buds if requested\n\n● Medium (16 oz)\nIn a hot drink cup:\n3 pumps of lavender syrup\n2 espresso shots\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd lavender buds if requested\n\n● Large (20 oz)\nIn a hot drink cup:\n4 pumps of lavender syrup\n2 espresso shots\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd lavender buds if requested",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Mexican Mocha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1/2 (one half) scoops of mexican mocha powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mexican mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 scoop of mexican mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Mocha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "North Shore Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1 1/2 (one and a half) pumps of chocolate macadamia nut syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n2 pumps of chocolate macadamia nut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of white chocolate powder\n2 1/2 (two and a half) pumps of chocolate macadamia nut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Nutty Irishman Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of irish cream syrup\n1/2 (one half) pumps of hazelnut syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of irish cream syrup\n1 pump of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of irish cream syrup\n1 1/2 (one and a half) pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Sandy Blonde Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nCaramel drizzle\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nCaramel drizzle\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of white chocolate powder\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nCaramel drizzle",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Sandy Brunette Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of mocha powder\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Summer Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "The Ben Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of chocolate macadamia nut syrup\n1/2 (one half) pumps of banana syrup\n1 espresso shot\nIn a measuring cup:\n2 oz of Maui Milk\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of chocolate macadamia nut syrup\n1 pump of banana syrup\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of chocolate macadamia nut syrup\n1 1/2 (one and a half) pumps of banana syrup\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "The Farris Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n1 pump of hazelnut syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n2 pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of mocha powder\n2 1/2 (two and a half) pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "The Haylee Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1 1/2 (one and a half) pumps of hazelnut syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n2 pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of white chocolate powder\n2 1/2 (two and a half) pumps of hazelnut syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "The Legend Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla powder\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel drizzle\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of vanilla powder\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel drizzle\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla powder\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd caramel drizzle",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "The Taylor Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1 1/2 (one and a half) pumps of toasted marshmallow syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n2 pumps of toasted marshmallow syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of white chocolate powder\n2 1/2 (two and a half) pumps of toasted marshmallow syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Waikiki Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1 1/2 (one and a half) pumps of vanilla syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n2 pumps of vanilla syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of white chocolate powder\n2 1/2 (two and a half) pumps of vanilla syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "White Chocolate Mocha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of white chocolate powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Wipeout Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3 pumps of chocolate macadamia nut syrup\n1 espresso shot\nIn a measuring cup:\nHalf and Half to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n4 pumps of chocolate macadamia nut syrup\n2 espresso shots\nIn a measuring cup:\nHalf and Half to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n5 pumps of chocolate macadamia nut syrup\n2 espresso shots\nIn a measuring cup:\nHalf and Half to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Dr. Creamy",
     "recipe": "● Small (12 oz)\nIn drink cup:\n2 pumps of vanilla syrup\nAdd 1/2 (one half) can of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n1 1/2 (one and a half) oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn drink cup:\n3 pumps of vanilla syrup\nAdd 3/4 (three quarters) can of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n2 oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn drink cup:\n4 pumps of vanilla syrup\nAdd 1 full can of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn drink cup:\n6 pumps of vanilla syrup\nAdd 1 1/2 (one and a half) cans of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n4 oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n*If requested, add whipped cream",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Vanilla Chai Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of vanilla chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 scoops of vanilla chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of vanilla chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 scoops of vanilla chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Coffee Free",
-    "mela_category": "Coffee Free - Not Blended",
-    "hidden": false
-  },
-  {
-    "drink": "Spiced Chai Iced",
-    "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Jolt",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 pumps of cherry syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\nAdd Kona Cloud\n\n● Medium (16 oz)\nIn a measuring cup:\n3 pumps of cherry syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\nAdd Kona Cloud\n\n● Large (24 oz)\nIn a measuring cup:\n4 pumps of cherry syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\nAdd Kona Cloud\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n6 pumps of cherry syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\nAdd Kona Cloud",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Matcha Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Pink Lady",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of grapefruit syrup\n1 1/2 (one and a half) pumps of guava syrup\nAdd ice and Italian soda\nMix with a spoon\nPour into drink cup\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of grapefruit syrup\n2 pumps of guava syrup\nAdd ice and Italian soda\nMix with a spoon\nPour into drink cup\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of grapefruit syrup\n2 1/2 (two and a half) pumps of guava syrup\nAdd ice and Italian soda\nMix with a spoon\nPour into drink cup\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of grapefruit syrup\n4 pumps of guava syrup\nAdd ice and Italian soda\nMix with a spoon\nPour into drink cup",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Shark Blood",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 pumps of grenadine\nAdd ice and Sprite\nMix with a spoon\nPour into drink cup\nAdd two gummy sharks on top\n\n● Medium (16 oz)\nIn a measuring cup:\n3 pumps of grenadine\nAdd ice and Sprite\nMix with a spoon\nPour into drink cup\nAdd two gummy sharks on top\n\n● Large (24 oz)\nIn a measuring cup:\n4 pumps of grenadine\nAdd ice and Sprite\nMix with a spoon\nPour into drink cup\nAdd two gummy sharks on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n6 pumps of grenadine\nAdd ice and Sprite\nMix with a spoon\nPour into drink cup\nAdd four gummy sharks on top",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Short Cake",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 pumps of strawberry syrup\n1 pump of vanilla syrup\nAdd ice and Italian Soda\nMix with a spoon\nPour into drink cup\nAdd a splash of Half and Half\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a measuring cup:\n3 pumps of strawberry syrup\n2 pumps of vanilla syrup\nAdd ice and Italian Soda\nMix with a spoon\nPour into drink cup\nAdd a splash of Half and Half\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a measuring cup:\n4 pumps of strawberry syrup\n2 pumps of vanilla syrup\nAdd ice and Italian Soda\nMix with a spoon\nPour into drink cup\nAdd a splash of Half and Half\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n6 pumps of strawberry syrup\n4 pumps of vanilla syrup\nAdd ice and Italian Soda\nMix with a spoon\nPour into drink cup\nAdd a splash of Half and Half\n*If requested, add whipped cream",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Surfer Girl",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 oz of coconut crème\n1 pump of strawberry puree\n1 1/2 (one and a half) oz water & lemonade to 8 oz\nStir well\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) oz of coconut crème\n1 1/2 (one and a half) pumps of strawberry puree\n2 oz water & lemonade to 10 oz\nStir well\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n3 oz of coconut crème\n1 1/2 (one and a half) pumps of strawberry puree\n2 1/2 (two and a half) oz water & lemonade to 12 oz\nStir well\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 oz of coconut crème\n3 pumps of strawberry puree\n4 oz water & lemonade to 20 oz\nStir well\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Terminator",
     "recipe": "● Small (12 oz)\nIn drink cup:\n1 pump of vanilla syrup\n1 pump of coconut syrup\nAdd 1/2 (one half) can of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n1 1/2 (one and a half) oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n\n● Medium (16 oz)\nIn drink cup:\n1 1/2 (one and a half) pumps of vanilla syrup\n1 1/2 (one and a half) pumps of coconut syrup\nAdd 3/4 (three quarters) can of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n2 oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n\n● Large (24 oz)\nIn drink cup:\n2 pumps of vanilla syrup\n2 pumps of coconut syrup\nAdd 1 full can of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice\n\n● X-tra Large (32 oz)\nIn drink cup:\n3 pumps of vanilla syrup\n3 pumps of coconut syrup\nAdd 1 1/2 (one and a half) cans of Dr. Pepper\nAdd light ice\nIn a measuring cup:\n4 oz of Maui Milk\nPour into the drink cup\nMix with a spoon\nTop off with ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "The Dylan",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of raspberry syrup\n1 pump of vanilla syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of raspberry syrup\n1 pump of vanilla syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of raspberry syrup\n1 1/2 (one and a half) pumps of vanilla syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of raspberry syrup\n2 pumps of vanilla syrup\nAdd ice and Mountain Dew\nMix with a spoon\nPour into drink cup",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Sunrise",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 pump of strawberry syrup\n1 pump of strawberry puree\n1 1/2 (one and a half) oz water & lemonade to 8 oz\nStir well\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of strawberry syrup\n1 1/2 (one and a half) pumps of strawberry puree\n2 oz water & lemonade to 10 oz\nStir well\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 pumps of strawberry syrup\n1 1/2 (one and a half) pumps of strawberry puree\n2 1/2 (two and a half) oz water & lemonade to 12 oz\nStir well\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n3 pumps of strawberry syrup\n3 pumps of strawberry puree\n4 oz water & lemonade to 20 oz\nStir well\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -989,8 +968,8 @@
   {
     "drink": "Caramel Apple Makenna Energy",
     "recipe": "● Medium (16 oz)\nIn drink cup:\n2 pumps of green apple syrup\nCaramel drizzle\n1 Makenna Energy Can\n● Large (24 oz)\nIn drink cup:\n3 pumps of green apple syrup\nCaramel drizzle\n1 1/2 (one and a half) Makenna Energy Cans\n● X-tra Large (32 oz)\nIn drink cup:\n4 pumps of green apple syrup\nCaramel drizzle\n2 Makenna Energy Cans",
-    "category": "Fall Drinks\nMakenna Energy",
-    "mela_category": "Fall Drinks\nMakenna Energy",
+    "category": "Fall Drinks",
+    "mela_category": "Fall Drinks",
     "hidden": false
   },
   {
@@ -1045,8 +1024,8 @@
   {
     "drink": "Peppermint Snowball Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) pumps of white chocolate sauce\n1 pump of peppermint bark sauce\n1 espresso shot\nWHISK THOROUGHLY\n2 oz Half and Half\nMilk of Choice to 8 oz\nPour over ice\n*If requested, add whipped cream\nCandy cane pieces on top\n\n● Medium (16 oz)\nIn a measuring cup:\n1 pump of white chocolate sauce\n2 pumps of peppermint bark sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Half and Half\nMilk of Choice to 10 oz\nPour over ice\n*If requested, add whipped cream\nCandy cane pieces on top\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n2 1/2 (two and a half) pumps of peppermint bark sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Half and Half\nMilk of Choice to 12 oz\nPour over ice\n*If requested, add whipped cream\nCandy cane pieces on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n4 pumps of peppermint bark sauce\n4 espresso shots\nWHISK THOROUGHLY\n5 oz Half and Half\nMilk of Choice to 20 oz\nPour over ice\n*If requested, add whipped cream\nCandy cane pieces on top",
-    "category": "Christmas Drinks\nGirl Scout Cookie Drinks",
-    "mela_category": "Christmas Drinks\nGirl Scout Cookie Drinks",
+    "category": "Christmas Drinks",
+    "mela_category": "Christmas Drinks",
     "hidden": false
   },
   {
@@ -1148,7 +1127,7 @@
     "hidden": false
   },
   {
-    "drink": "Going Bananas Chiller",
+    "drink": "Going Bananas Chiller🍌",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n1 scoop of vanilla powder\n1 scoop of mocha powder\nIn a measuring cup:\n1 1/2 (one and a half) pumps of chocolate macadamia nut syrup\n1/2 (one half) pumps of banana syrup\n1 espresso shot\n1 oz Maui Milk, milk of choice to 5 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n1 1/2 (one and a half) scoops of vanilla powder\n1 1/2 (one and a half) scoops of mocha powder\nIn a measuring cup:\n2 pumps of chocolate macadamia nut syrup\n1 pump of banana syrup\n2 espresso shots\n2 oz Maui Milk, milk of choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n2 scoops of vanilla powder\n2 scoops of mocha powder\nIn a measuring cup:\n2 1/2 (two and a half) pumps of chocolate macadamia nut syrup\n1 1/2 (one and a half) pumps of banana syrup\n2 espresso shots\n2 1/2 (two and a half) oz Maui Milk, milk of choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla powder\n3 scoops of mocha powder\nIn a measuring cup:\n4 pumps of chocolate macadamia nut syrup\n2 pumps of banana syrup\n4 espresso shots\n4 oz Maui Milk, milk of choice to 12 oz\nPour measuring cup into blender, lid on\nBlend on 4\nPour blended drink into the drink cup\n*If requested, add whipped cream",
     "category": "Misc Blended",
     "mela_category": "Misc Blended",
@@ -1374,105 +1353,105 @@
   {
     "drink": "Coco Cabana",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n1 pump of coconut syrup\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n2 pumps of coconut syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of mocha powder\n2 1/2 (two and a half) pumps of coconut syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of mocha powder\n4 pumps of coconut syrup\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Coco Cabana - Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n1 pump of coconut syrup\n1 espresso shot\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n2 pumps of coconut syrup\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of mocha powder\n2 1/2 (two and a half) pumps of coconut syrup\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Maui Latte (3/4) Iced",
-    "recipe": "● Small (12 oz)\nIn a measuring cup:\n4 oz Maui Milk\nMilk of Choice to 8 oz\n1 espresso shot\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n6 oz Maui Milk\nMilk of Choice to 10 oz\n2 espresso shots\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n7 oz Maui Milk\nMilk of Choice to 12 oz\n2 espresso shots\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n12 oz Maui Milk\nMilk of Choice to 20 oz\n4 espresso shots\nPour over ice",
-    "category": "Iced Drinks",
+    "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\n4 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\n6 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\n7 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\n12 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Maui Latte (1/2) Iced",
-    "recipe": "● Small (12 oz)\nIn a measuring cup:\n3 oz Maui Milk\nMilk of Choice to 8 oz\n1 espresso shot\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n4 oz Maui Milk\nMilk of Choice to 10 oz\n2 espresso shots\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n5 oz Maui Milk\nMilk of Choice to 12 oz\n2 espresso shots\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n8 oz Maui Milk\nMilk of Choice to 20 oz\n4 espresso shots\nPour over ice",
-    "category": "Iced Drinks",
+    "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\n3 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\n4 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\n5 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\n8 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Maui Latte (1/4) Iced",
-    "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 oz Maui Milk\nMilk of Choice to 8 oz\n1 espresso shot\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) oz Maui Milk\nMilk of Choice to 10 oz\n2 espresso shots\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n3 oz Maui Milk\nMilk of Choice to 12 oz\n2 espresso shots\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 oz Maui Milk\nMilk of Choice to 20 oz\n4 espresso shots\nPour over ice",
-    "category": "Iced Drinks",
+    "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\n2 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\n2 1/2 (two and a half) oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\n3 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\n5 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Maui Latte Full Iced",
-    "recipe": "● Small (12 oz)\nIn a measuring cup:\n8 oz Maui Milk\n1 espresso shot\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n10 oz Maui Milk\n2 espresso shots\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n12 oz Maui Milk\n2 espresso shots\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n20 oz Maui Milk\n4 espresso shots\nPour over ice",
-    "category": "Iced Drinks",
+    "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\n8 oz Maui Milk\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\n10 oz Maui Milk\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\n12 oz Maui Milk\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\n20 oz Maui Milk\nPour over ice",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Maui Latte (3/4) Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 espresso shot\nIn a measuring cup:\nMaui Milk to 7 oz\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 8 oz\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 10 oz\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Maui Latte (1/2) Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 espresso shot\nIn a measuring cup:\nMaui Milk to 5 oz\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 6 oz\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 7 oz\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Maui Latte (1/4) Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 espresso shot\nIn a measuring cup:\nMaui Milk to 2 1/2 (two and a half) oz\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 3 oz\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 3 1/2 (three and a half) oz\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Maui Latte Full Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 espresso shot\nIn a measuring cup:\nMaui Milk to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 espresso shots\nIn a measuring cup:\nMaui Milk to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Vanilla Breve Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nHalf and Half to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nHalf and Half to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nHalf and Half to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Twilight",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 pumps of orange syrup\n1 pump of peach syrup\n\nAdd ice and Italian soda\nAdd splash of Half and Half\n\n● Medium (16 oz)\nIn a measuring cup:\n3 pumps of orange syrup\n2 pumps of peach syrup\n2 oz of Half and Half\n\nAdd ice and Italian soda\n\n● Large (24 oz)\nIn a measuring cup:\n4 pumps of orange syrup\n2 pumps of peach syrup\n2 1/2 (two and a half) oz of Half and Half\n\nAdd ice and Italian soda\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n6 pumps of orange syrup\n4 pumps of peach syrup\n4 oz of Half and Half\n\nAdd ice and Italian soda",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Unicorn Blood",
     "recipe": "ALL SIZES\nFill heaping cup of ice\nAdd lemonade smoothie mix into cup with ice\nBlend\nPour drink out\nOn top squirt strawberry, blue raspberry, lime, and raspberry",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Zombie Slayer",
     "recipe": "ALL SIZES\nFill heaping cup of ice\nAdd lemonade into cup with ice\nBlend\nPour drink out\nOn top squirt blackberry syrup",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Warm Cocoa",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of mocha powder\nWhole milk to 10 oz in steaming pitcher\nSteam milk\n\n● Medium (16 oz)\nIn a measuring cup:\n3 scoops of mocha powder\nWhole milk to 12 oz in steaming pitcher\nSteam milk\n\n● Large (24 oz)\nIn a measuring cup:\n4 scoops of mocha powder\nWhole milk to 14 oz in steaming pitcher\nSteam milk",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -1563,28 +1542,28 @@
   {
     "drink": "Chai Oregon Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of spiced chai powder\n3/4 (three quarters) scoops of vanilla chai powder\nSplash of hot water\nMilk of Choice to 8 oz\nMIX THOROUGHLY\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of spiced chai powder\n1 scoop of vanilla chai powder\nSplash of hot water\nMilk of Choice to 10 oz\nMIX THOROUGHLY\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/4 (one and a quarter) scoops of spiced chai powder\n1 1/4 (one and a quarter) scoops of vanilla chai powder\nSplash of hot water\nMilk of Choice to 12 oz\nMIX THOROUGHLY\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of spiced chai powder\n2 scoops of vanilla chai powder\nSplash of hot water\nMilk of Choice to 20 oz\nMIX THOROUGHLY\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Matcha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n3 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Chai Oregon Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of spiced chai powder\n3/4 (three quarters) scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of spiced chai powder\n1 scoop of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) scoops of spiced chai powder\n1 1/4 (one and a quarter) scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Vanilla Chai Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of vanilla chai powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -1598,8 +1577,8 @@
   {
     "drink": "Lavender White Mocha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 pump of lavender syrup\n1/2 (one half) scoops of white chocolate powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nWhole milk to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of lavender syrup\n1 scoop of white chocolate powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nWhole milk to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of lavender syrup\n1 1/2 (one and a half) big scoop of white chocolate powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nWhole milk to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Supreme Hot\nSummer of Lavender Love",
-    "mela_category": "Supreme Hot\nSummer of Lavender Love",
+    "category": "Supreme Hot",
+    "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
@@ -1675,28 +1654,28 @@
   {
     "drink": "Honey Bee Latte Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of coconut syrup\n1/4 (one quarter) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\n1 1/2 (one and a half) oz Maui Milk\n1 1/2 (one and a half) oz Half and Half\nWhole milk to 8 oz\nPour over ice\nHoney and caramel drizzle\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of coconut syrup\n1/2 (one half) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\n2 oz Maui Milk\n2 oz Half and Half\nWhole milk to 10 oz\nPour over ice\nHoney and caramel drizzle\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of coconut syrup\n3/4 (three quarters) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Maui Milk\n2 1/2 (two and a half) oz Half and Half\nWhole milk to 12 oz\nPour over ice\nHoney and caramel drizzle\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of coconut syrup\n1 scoop of vanilla powder\n4 espresso shots\nWHISK THOROUGHLY\n4 oz Maui Milk\n4 oz Half and Half\nWhole milk to 20 oz\nPour over ice\nHoney and caramel drizzle",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Honey Bee Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of coconut syrup\n1/4 (one quarter) scoops of vanilla powder\n1 espresso shot\nMix\nIn a measuring cup:\n1 1/2 (one and a half) oz Maui Milk\n1 1/2 (one and a half) oz Half and Half\nWhole milk to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nHoney and caramel drizzle\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of coconut syrup\n1/2 (one half) scoops of vanilla powder\n2 espresso shots\nMix\nIn a measuring cup:\n2 oz Maui Milk\n2 oz Half and Half\nWhole milk to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nHoney and caramel drizzle\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of coconut syrup\n3/4 (three quarters) scoops of vanilla powder\n2 espresso shots\nMix\nIn a measuring cup:\n2 1/2 (two and a half) oz Maui Milk\n2 1/2 (two and a half) oz Half and Half\nWhole milk to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nHoney and caramel drizzle",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Sugar Cookie Latte Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1/2 (one half) pumps of toasted marshmallow syrup\n1/2 (one half) pumps of almond roca syrup\n1 espresso shot\nWHISK THOROUGHLY\n1 1/2 (one and a half) oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\nAdd Kona Cloud\nSprinkles on top\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n1 pump of toasted marshmallow syrup\n1 pump of almond roca syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\nAdd Kona Cloud\nSprinkles on top\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of toasted marshmallow syrup\n1 1/2 (one and a half) pumps of almond roca syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\nAdd Kona Cloud\nSprinkles on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n2 pumps of toasted marshmallow syrup\n2 pumps of almond roca syrup\n4 espresso shots\nWHISK THOROUGHLY\n4 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice\nAdd Kona Cloud\nSprinkles on top",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Santa's Cookie (Sugar Cookie)",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of white chocolate powder\n1/2 (one half) pumps of toasted marshmallow syrup\n1/2 (one half) pumps of almond roca syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 1 1/2 (one and a half) oz\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud\nSprinkles on top\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of white chocolate powder\n1 pump of toasted marshmallow syrup\n1 pump of almond roca syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 2 oz\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud\nSprinkles on top\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of white chocolate powder\n1 pump of toasted marshmallow syrup\n1 pump of almond roca syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 2 1/2 (two and a half) oz\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud\nSprinkles on top",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
@@ -1717,7 +1696,7 @@
   {
     "drink": "Caramel Crunch Chai (Iced)",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\n1 1/2 (one and a half) oz Maui Milk\nFill with whole milk to 8 oz\nCaramel drizzle around cup\nPour over ice\nAdd caramel drizzle to the top and sugar crystals\nAdd Kona Cloud on top\n\n● Medium (16 oz)\nIn a measuring cup:\n2 scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\n2 oz Maui Milk\nFill with whole milk to 10 oz\nCaramel drizzle around cup\nPour over ice\nAdd caramel drizzle to the top and sugar crystals\nAdd Kona Cloud on top\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Maui Milk\nFill with whole milk to 12 oz\nCaramel drizzle around cup\nPour over ice\nAdd caramel drizzle to the top and sugar crystals\nAdd Kona Cloud on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 scoops of spiced chai powder\nSplash of hot water\nWHISK THOROUGHLY\n4 oz Maui Milk\nFill with whole milk to 20 oz\nCaramel drizzle around cup\nPour over ice\nAdd caramel drizzle to the top and sugar crystals\nAdd Kona Cloud on top",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -1731,21 +1710,21 @@
   {
     "drink": "Oat Cream Matcha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 scoops of matcha powder\nIn a measuring cup:\nOat milk to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nOat Kona on top\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of matcha powder\nIn a measuring cup:\nOat milk to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nOat Kona on top\n\n● Large (20 oz)\nIn a hot drink cup:\n3 scoops of matcha powder\nIn a measuring cup:\nOat milk to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nOat Kona on top",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Honey Matcha",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of matcha powder\nSplash of hot water\nMilk of Choice to 8 oz\nMIX THOROUGHLY\nPour over ice\nHoney drizzle\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of matcha powder\nSplash of hot water\nMilk of Choice to 10 oz\nMIX THOROUGHLY\nPour over ice\nHoney drizzle\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of matcha powder\nSplash of hot water\nMilk of Choice to 12 oz\nMIX THOROUGHLY\nPour over ice\nHoney drizzle\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 scoops of matcha powder\nSplash of hot water\nMilk of Choice to 20 oz\nMIX THOROUGHLY\nPour over ice\nHoney drizzle",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Honey Matcha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nHoney drizzle\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nHoney drizzle\n\n● Large (20 oz)\nIn a hot drink cup:\n3 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nHoney drizzle",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -1780,49 +1759,49 @@
   {
     "drink": "Lavender Cold Brew",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of vanilla syrup\nCold Brew to 6 oz\nMIX THOROUGHLY\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 pump of lavender syrup\nMIX THOROUGHLY\nPour on top of cold brew\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of vanilla syrup\nCold Brew to 8 oz\nMIX THOROUGHLY\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 pump of lavender syrup\nMIX THOROUGHLY\nPour on top of cold brew\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of vanilla syrup\nCold Brew to 10 oz\nMIX THOROUGHLY\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 pump of lavender syrup\nMIX THOROUGHLY\nPour on top of cold brew\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of vanilla syrup\nCold Brew to 16 oz\nMIX THOROUGHLY\nPour over ice\nIn new measuring cup:\n4 oz of Kona Cloud\n2 pumps of lavender syrup\nMIX THOROUGHLY\nPour on top of cold brew",
-    "category": "Cold Brew Sips\nSummer of Lavender Love",
-    "mela_category": "Cold Brew Sips\nSummer of Lavender Love",
+    "category": "Cold Brew Sips",
+    "mela_category": "Cold Brew Sips",
     "hidden": false
   },
   {
     "drink": "Kona Cloud Chai Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of spiced chai powder\nSplash of hot water\nMIX THOROUGHLY\n1 1/2 (one and a half) oz Maui Milk\nMilk of Choice to 8 oz\nMIX THOROUGHLY\nPour over ice\nKona on top\n\n● Medium (16 oz)\nIn a measuring cup:\n2 scoops of spiced chai powder\nSplash of hot water\nMIX THOROUGHLY\n2 oz Maui Milk\nMilk of Choice to 10 oz\nMIX THOROUGHLY\nPour over ice\nKona on top\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of spiced chai powder\nSplash of hot water\nMIX THOROUGHLY\n2 1/2 (two and a half) oz Maui Milk\nMilk of Choice to 12 oz\nMIX THOROUGHLY\nPour over ice\nKona on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 scoops of spiced chai powder\nSplash of hot water\nMIX THOROUGHLY\n4 oz Maui Milk\nMilk of Choice to 20 oz\nMIX THOROUGHLY\nPour over ice\nKona on top",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Kona Cloud Chai Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of spiced chai powder\nIn a measuring cup:\n1 1/2 (one and a half) oz of Maui Milk\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud on top\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 scoops of spiced chai powder\nIn a measuring cup:\n2 oz of Maui Milk\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud on top\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of spiced chai powder\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud on top",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Maui Mocha Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1/2 (one half) scoops of mocha powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 7 oz\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 8 oz\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 10 oz\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Maui Vanilla Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1/2 (one half) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 7 oz\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 8 oz\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n1 scoop of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMaui Milk to 10 oz\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Maui Vanilla Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) scoops of vanilla powder\n1 espresso shot\nWHISK THOROUGHLY\n4 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\n6 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 scoop of vanilla powder\n2 espresso shots\nWHISK THOROUGHLY\n7 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of vanilla powder\n4 espresso shots\nWHISK THOROUGHLY\n12 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Maui Mocha Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) scoops of mocha powder\n1 espresso shot\nWHISK THOROUGHLY\n4 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\n6 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n2 espresso shots\nWHISK THOROUGHLY\n7 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of mocha powder\n4 espresso shots\nWHISK THOROUGHLY\n12 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
@@ -1857,7 +1836,7 @@
   {
     "drink": "Barbie",
     "recipe": "● Small (12 oz)\nIn a shaker:\n1 1/2 (one and a half) scoops of strawberry puree\n1 1/2 (one and a half) oz Maui Milk\nFill cup to 8 oz with Macadamia Nut milk\nSHAKE WELL\nPour over ice\n\n● Medium (16 oz)\nIn a shaker:\n2 scoops of strawberry puree\n2 oz Maui Milk\nFill cup to 10 oz with Macadamia Nut milk\nSHAKE WELL\nPour over ice\n\n● Large (24 oz)\nIn a shaker:\n2 1/2 (two and a half) scoops of strawberry puree\n2 1/2 (two and a half) oz Maui Milk\nFill cup to 12 oz with Macadamia Nut milk\nSHAKE WELL\nPour over ice\n\n● X-tra Large (32 oz)\nIn a shaker:\n4 scoops of strawberry puree\n4 oz Maui Milk\nFill cup to 20 oz with Macadamia Nut milk\nSHAKE WELL\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -1981,13 +1960,6 @@
     "hidden": false
   },
   {
-    "drink": "Red Hammer Slushy",
-    "recipe": "● Medium (16 oz)\nIn drink cup:\n1 pump of raspberry syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● Large (24 oz)\nIn drink cup:\n1 1/2 (one and a half) pumps of raspberry syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● X-tra Large (32 oz)\nIn drink cup:\n2 pumps of raspberry syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY",
-    "category": "Makenna Energy Slushy",
-    "mela_category": "Makenna Energy Slushy",
-    "hidden": false
-  },
-  {
     "drink": "Red Starburst Slushy",
     "recipe": "● Medium (16 oz)\nIn drink cup:\n1 pump of watermelon syrup\n3/4 (three quarters) pumps of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● Large (24 oz)\nIn drink cup:\n1 1/2 (one and a half) pumps of watermelon syrup\n1 1/4 (one and a quarter) pumps of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● X-tra Large (32 oz)\nIn drink cup:\n2 pumps of watermelon syrup\n1 1/2 (one and a half) pumps of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY",
     "category": "Makenna Energy Slushy",
@@ -2095,14 +2067,14 @@
   {
     "drink": "Caramel Crunch Chai Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of spiced chai powder\nIn a measuring cup:\n1 1/2 (one and a half) oz of Maui Milk\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud on top\nAdd caramel drizzle to the top and sugar crystals\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 scoops of spiced chai powder\nIn a measuring cup:\n2 oz of Maui Milk\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud\nAdd caramel drizzle to the top and sugar crystals\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of spiced chai powder\nIn a measuring cup:\n2 1/2 (two and a half) oz of Maui Milk\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud\nAdd caramel drizzle to the top and sugar crystals",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
     "drink": "Root Beer Float",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) oz Maui Milk\nMix\nAdd 1/2 (one half) can of Root beer\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 oz Maui Milk\nMix\nAdd 3/4 (three quarters) can of Root beer\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) oz Maui Milk\nMix\nAdd 1 can of Root beer\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 oz Maui Milk\nMix\nAdd 1 1/2 (one and a half) cans of Root beer\nPour over ice",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -2200,28 +2172,28 @@
   {
     "drink": "Mint Mojito",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of brown sugar\nMix thoroughly with 8 mint leaves\n1 espresso shot\nWHISK THOROUGHLY\n1 oz of heavy cream\nWhole Milk to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 scoops of brown sugar\nMix thoroughly with 10 mint leaves\n2 espresso shots\nWHISK THOROUGHLY\n1 oz of heavy cream\nWhole Milk to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of brown sugar\nMix thoroughly with 12 mint leaves\n2 espresso shots\nWHISK THOROUGHLY\n1 oz of heavy cream\nWhole Milk to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 scoops of brown sugar\nMix thoroughly with 20 mint leaves\n4 espresso shots\nWHISK THOROUGHLY\n2 oz of heavy cream\nWhole Milk to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Sugar Latte Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of brown sugar\n1 espresso shot\nWHISK THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\n\n● Medium (16 oz)\nIn a measuring cup:\n2 scoops of brown sugar\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of brown sugar\n2 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 scoops of brown sugar\n4 espresso shots\nWHISK THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Sugar Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of brown sugar\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 scoops of brown sugar\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of brown sugar\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Mint Mojito Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of brown sugar\nMix thoroughly with 8 mint leaves\n1 espresso shot\nIn a measuring cup:\n1 oz of heavy cream\nWhole Milk to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 scoops of brown sugar\nMix thoroughly with 10 mint leaves\n2 espresso shots\nIn a measuring cup:\n1 oz of heavy cream\nWhole Milk to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of brown sugar\nMix thoroughly with 12 mint leaves\n2 espresso shots\nIn a measuring cup:\n1 oz of heavy cream\nWhole Milk to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
@@ -2242,42 +2214,42 @@
   {
     "drink": "Chocolate Covered Strawberry Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n3/4 (three quarters) pumps of strawberry syrup\n1 espresso shot\nWHISK THOROUGHLY\n2 oz Half and Half\nWhole milk to 8 oz\nPour over ice\nIn a separate measuring cup:\n2 oz Kona Cloud\n1 pump of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n1 pump of strawberry syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Half and Half\nWhole milk to 10 oz\nPour over ice\nIn a separate measuring cup:\n2 oz Kona Cloud\n1 pump of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of mocha powder\n1 1/2 (one and a half) pumps of strawberry syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Half and Half\nWhole milk to 12 oz\nPour over ice\nIn a separate measuring cup:\n2 oz Kona Cloud\n1 pump of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 scoops of mocha powder\n2 pumps of strawberry syrup\n4 espresso shots\nWHISK THOROUGHLY\n5 oz Half and Half\nWhole milk to 20 oz\nPour over ice\nIn a separate measuring cup:\n4 oz Kona Cloud\n2 pumps of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Samoa Sunrise Iced",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) scoops of mocha powder\n1 pump of coconut syrup\n3/4 (three quarters) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nCaramel drizzle\nKona Cloud on top\nCaramel drizzle On Kona\n\n● Medium (16 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of mocha powder\n2 pumps of coconut syrup\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nCaramel drizzle\nKona Cloud on top\nCaramel drizzle On Kona\n\n● Large (24 oz)\nIn a measuring cup:\n1 scoop of mocha powder\n2 1/2 (two and a half) pumps of coconut syrup\n1 1/4 (one and a quarter) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nCaramel drizzle\nKona Cloud on top\nCaramel drizzle On Kona\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of mocha powder\n4 pumps of coconut syrup\n2 pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nCaramel drizzle\nKona Cloud on top\nCaramel drizzle On Kona",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Churro Latte Iced",
     "recipe": "12oz\n1 1/4 pumps white chocolate\n3/4 scoop brown sugar powder\n1 shot of espresso\nWhisk\n2oz half and half\nMilk of choice to 8oz\n \nadd Kona and churro sprinkle\n(Churro sprinkle: cinnamon powder and raw sugar crystals)\n\n16oz \n2 pumps white chocolate\n1 scoop brown sugar powder\n2 shots of espresso\nWhisk\n2 1/2oz half and half\nMilk of choice to 10oz\n \nadd Kona and churro sprinkle\n(Churro sprinkle: cinnamon powder and raw sugar crystals)\n\n24oz\n2 1/2pumps white chocolate\n1 1/2 scoop brown sugar powder\n2 shots of espresso\nWhisk\n2 1/2oz half and half\nMilk of choice to 12oz\n \nadd Kona and churro sprinkle\n(Churro sprinkle: cinnamon powder and raw sugar crystals)",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Horchata Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) scoop of horchata powder\n1 pump of brown sugar cinnamon syrup\n1/4 (one quarter) pump of white chocolate sauce\n1 espresso shot\nWHISK THOROUGHLY\n2 oz Maui milk\nMilk of choice to 8 oz\nPour over ice\n2 oz Kona Cloud\nTop with cinnamon powder\n\n● Medium (16 oz)\nIn a measuring cup:\n3/4 (three quarters) scoop of horchata powder\n1 1/2 (one and a half) pumps of brown sugar cinnamon syrup\n1/2 (one half) pump of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Maui milk\nMilk of choice to 10 oz\nPour over ice\n2 oz Kona Cloud\nTop with cinnamon powder\n\n● Large (24 oz)\nIn a measuring cup:\n1 scoop of horchata powder\n2 pumps of brown sugar cinnamon syrup\n3/4 (three quarters) pump of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Maui milk\nMilk of choice to 12 oz\nPour over ice\n2 oz Kona Cloud\nTop with cinnamon powder",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Horchata Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1/2 (one half) scoop of horchata powder\n1 pump of brown sugar cinnamon syrup\n1/4 (one quarter) pump of white chocolate sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz Maui milk\nMilk of choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n2 oz Kona Cloud\nTop with cinnamon powder\n\n● Medium (16 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoop of horchata powder\n1 1/2 (one and a half) pumps of brown sugar cinnamon syrup\n1/2 (one half) pump of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz Maui milk\nMilk of choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n2 oz Kona Cloud\nTop with cinnamon powder\n\n● Large (20 oz)\nIn a hot drink cup:\n1 scoop of horchata powder\n2 pumps of brown sugar cinnamon syrup\n3/4 (three quarters) pump of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz Maui milk\nMilk of choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n2 oz Kona Cloud\nTop with cinnamon powder",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Cinna-Swirl",
     "recipe": "12oz\n1 1/2 pump of white chocolate sauce\n1/2 pump of caramel sauce\n1 Espresso shot\nWhisk thoroughly \n2 oz half and half \nMilk of choice to 8 oz\nPour over ice and  \nCaramel sauce around cup\nKona cloud and cinnamon powder\n\n16oz\n2 pump of white chocolate sauce\n3/4 pump of caramel sauce\n2 Espresso shots\nWhisk thoroughly \n2 1/2 oz half and half\nMilk of choice to 10 oz\nPour over ice and  \nCaramel sauce around cup\nKona cloud and cinnamon powder\n\n24oz\n2 1/2 pump of white chocolate sauce\n1 pump of caramel sauce\n2 Espresso shots\nWhisk thoroughly\n2 1/2 oz half and half\nMilk of choice to 12 oz\nPour over ice and  \nCaramel sauce around cup\nKona cloud and cinnamon powder",
-    "category": "Other",
+    "category": "",
     "mela_category": "",
     "hidden": false
   },
@@ -2291,7 +2263,7 @@
   {
     "drink": "Dubai Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1/2 (one half) scoops of pistachio powder\n1 espresso shot\nHalf and Half to 8 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1/2 (one half) scoops of mocha powder\nMIX THOROUGHLY\nPour Kona on drink\nPistachio bits on top\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of pistachio powder\n2 espresso shots\nHalf and Half to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1/2 (one half) scoops of mocha powder\nMIX THOROUGHLY\nPour Kona on drink\nPistachio bits on top\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of pistachio powder\n2 espresso shots\nHalf and Half to 12 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1/2 (one half) scoops of mocha powder\nMIX THOROUGHLY\nPour Kona on drink\nPistachio bits on top",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
@@ -2305,7 +2277,7 @@
   {
     "drink": "Freedom Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\n2 oz of Half and Half\nMilk of Choice to 8 oz\nStrawberry puree around cup\nPour measuring cup into drink cup\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of strawberry syrup\nWHISK THOROUGHLY\nPour over ice\nPop rocks on top\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nStrawberry puree around cup\nPour measuring cup into drink cup\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of strawberry syrup\nWHISK THOROUGHLY\nPour over ice\nPop rocks on top\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nStrawberry puree around cup\nPour measuring cup into drink cup\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of strawberry syrup\nWHISK THOROUGHLY\nPour over ice\nPop rocks on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nStrawberry puree around cup\nPour measuring cup into drink cup\nIn a separate measuring cup:\n4 oz Kona Cloud\n4 pumps of strawberry syrup\nWHISK THOROUGHLY\nPour over ice\nPop rocks on top",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
@@ -2332,7 +2304,7 @@
   },
   {
     "drink": "4th of July Makenna Energy",
-    "recipe": "● Medium (16 oz)\nIn a measuring cup:\n2 pumps of raspberry syrup\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of blue raspberry syrup\nMIX THOROUGHLY\nPour over drink\nAdd one Makenna Energy Can, Add ice\nPop rocks on top\n\n● Large (24 oz)\nIn a measuring cup:\n3 pumps of raspberry syrup\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of blue raspberry syrup\nMIX THOROUGHLY\nPour over drink\n1 1/2 (one and a half) Makenna Energy Cans, Add ice\nPop rocks on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of raspberry syrup\nIn a separate measuring cup:\n4 oz Kona Cloud\n4 pumps of blue raspberry syrup\nMIX THOROUGHLY\nPour over drink\n2 Makenna Energy Cans, Add ice\nPop rocks on top",
+    "recipe": "● Medium (16 oz)\nIn a measuring cup:\n2 pumps of raspberry syrup\nAdd 1 Makenna Energy Can\nAdd ice\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of blue raspberry syrup\nMIX THOROUGHLY\nPour over drink\nPop rocks on top\n\n● Large (24 oz)\nIn a measuring cup:\n3 pumps of raspberry syrup\n1 1/2 (one and a half) Makenna Energy Cans\nAdd ice\nIn a separate measuring cup:\n2 oz Kona Cloud\n2 pumps of blue raspberry syrup\nMIX THOROUGHLY\nPour over drink\nPop rocks on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of raspberry syrup\n2 Makenna Energy Cans\nAdd ice\nIn a separate measuring cup:\n4 oz Kona Cloud\n4 pumps of blue raspberry syrup\nMIX THOROUGHLY\nPour over drink\nPop rocks on top",
     "category": "Makenna Energy",
     "mela_category": "Makenna Energy",
     "hidden": false
@@ -2347,15 +2319,15 @@
   {
     "drink": "Caramel Apple Pie",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of caramel apple butter syrup\n1/2 (one half) pumps of cinnamon syrup\n1 espresso shot\nWHISK THOROUGHLY\n1 1/2 (one and a half) oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\nCaramel drizzle around the rim of cup\nAdd Kona Cloud\nCinnamon powder on top\nCrushed graham crackers on top\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of caramel apple butter syrup\n1 pump of cinnamon syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\nCaramel drizzle around the rim of cup\nAdd Kona Cloud\nCinnamon powder on top\nCrushed graham crackers on top\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of caramel apple butter syrup\n1 1/2 (one and a half) pumps of cinnamon syrup\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\nCaramel drizzle around the rim of cup\nAdd Kona Cloud\nCinnamon powder on top\nCrushed graham crackers on top",
-    "category": "Fall Drinks\nSupreme Iced",
-    "mela_category": "Fall Drinks\nSupreme Iced",
+    "category": "Fall Drinks",
+    "mela_category": "Fall Drinks",
     "hidden": false
   },
   {
     "drink": "Shaken Apple Crisp",
     "recipe": "● Small (12 oz)\nIn a shaker:\n1 1/2 (one and a half) pumps of caramel apple butter syrup\n3/4 (three quarters) scoops of brown sugar\n2 espresso shots\nSwirl the contents in the shaker\nCup full of ice\nSHAKE WELL\nPour into cup, add more ice\nAdd splash of whole milk to shaker to catch remaining syrup\nPour flavored milk into drink cup\nTop off with ice\n\n● Medium (16 oz)\nIn a shaker:\n2 pumps of caramel apple butter syrup\n1 scoop of brown sugar\n3 espresso shots\nSwirl the contents in the shaker\nCup full of ice\nSHAKE WELL\nPour into cup, add more ice\nAdd splash of whole milk to shaker to catch remaining syrup\nPour flavored milk into drink cup\nTop off with ice\n\n● Large (24 oz)\nIn a shaker:\n2 1/2 (two and a half) pumps of caramel apple butter syrup\n1 1/2 (one and a half) scoops of brown sugar\n4 espresso shots\nSwirl the contents in the shaker\nCup full of ice\nSHAKE WELL\nPour into cup, add more ice\nAdd splash of whole milk to shaker to catch remaining syrup\nPour flavored milk into drink cup\nTop off with ice",
-    "category": "Shaken Espresso\nFall Drinks",
-    "mela_category": "Shaken Espresso\nFall Drinks",
+    "category": "Shaken Espresso",
+    "mela_category": "Shaken Espresso",
     "hidden": false
   },
   {
@@ -2368,8 +2340,8 @@
   {
     "drink": "Green Mamba",
     "recipe": "● Medium (16 oz)\nIn a measuring cup:\n1/2 (one half) scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\n2 1/2 (two and a half) oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n1/4 (one quarter) scoops of matcha powder\nMIX THOROUGHLY\nPour on top",
-    "category": "Matcha\nCoffee Free - Not Blended",
-    "mela_category": "Matcha\nCoffee Free - Not Blended",
+    "category": "Matcha",
+    "mela_category": "Matcha",
     "hidden": false
   },
   {
@@ -2389,8 +2361,8 @@
   {
     "drink": "Shaken Peppermint",
     "recipe": "● Small (12 oz)\nIn a shaker:\n1 pump of peppermint sauce\n2 espresso shots\nWhisk\nCup full of ice\nSHAKE WELL\nPour into cup, add more ice\nTop off with whole milk\nIn a measuring cup:\n2 oz Kona Cloud\n2 pumps of peppermint sauce\nMIX THOROUGHLY\nPour on top\nTop with peppermint sprinkles\n\n● Medium (16 oz)\nIn a shaker:\n1 1/2 (one and a half) pumps of peppermint sauce\n3 espresso shots\nWhisk\nCup full of ice\nSHAKE WELL\nPour into cup, add more ice\nTop off with whole milk\nIn a measuring cup:\n2 oz Kona Cloud\n2 pumps of peppermint sauce\nMIX THOROUGHLY\nPour on top\nTop with peppermint sprinkles\n\n● Large (24 oz)\nIn a shaker:\n2 pumps of peppermint sauce\n4 espresso shots\nWhisk\nCup full of ice\nSHAKE WELL\nPour into cup, add more ice\nTop off with whole milk\nIn a measuring cup:\n2 oz Kona Cloud\n2 pumps of peppermint sauce\nMIX THOROUGHLY\nPour on top\nTop with peppermint sprinkles",
-    "category": "Shaken Espresso\nChristmas Drinks",
-    "mela_category": "Shaken Espresso\nChristmas Drinks",
+    "category": "Shaken Espresso",
+    "mela_category": "Shaken Espresso",
     "hidden": false
   },
   {
@@ -2403,7 +2375,7 @@
   {
     "drink": "Chocolate Milk",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of mocha powder\nSplash of hot water\nMIX THOROUGHLY\nWhole milk to 12 oz\nPour into cup (NO ICE)\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of mocha powder\nSplash of hot water\nMIX THOROUGHLY\nWhole milk to 16 oz\nPour into cup (NO ICE)\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of mocha powder\nSplash of hot water\nMIX THOROUGHLY\nWhole milk to 24 oz\nPour into cup (NO ICE)",
-    "category": "Coffee Free",
+    "category": "Coffee Free - Not Blended",
     "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
@@ -2438,8 +2410,8 @@
   {
     "drink": "Love Potion Makenna Energy Slush",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) pumps of strawberry syrup\n1/4 (one quarter) pumps of white chocolate sauce\n1/4 (one quarter) pumps of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● Medium (16 oz)\nIn a measuring cup:\n1 pump of strawberry syrup\n1/2 (one half) pumps of white chocolate sauce\n1/2 (one half) pumps of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/4 (one and a quarter) pumps of strawberry syrup\n3/4 (three quarters) pumps of white chocolate sauce\n3/4 (three quarters) pumps of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 pumps of strawberry syrup\n1 pump of white chocolate sauce\n1 pump of almond syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY",
-    "category": "Makenna Energy Slushy\nValentine's Day",
-    "mela_category": "Makenna Energy Slushy\nValentine's Day",
+    "category": "Makenna Energy Slushy",
+    "mela_category": "Makenna Energy Slushy",
     "hidden": false
   },
   {
@@ -2480,7 +2452,7 @@
   {
     "drink": "Samoa Sunrise Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1/2 (one half) scoops of mocha powder\n1 pump of coconut syrup\n3/4 (three quarters) pumps of caramel sauce\n1 espresso shot\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nKona Cloud on top\nCaramel drizzle On Kona\n\n● Medium (16 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n2 pumps of coconut syrup\n1 pump of caramel sauce\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nKona Cloud on top\nCaramel drizzle On Kona\n\n● Large (20 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n2 1/2 (two and a half) pumps of coconut syrup\n1 1/4 (one and a quarter) pumps of caramel sauce\n2 espresso shots\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nKona Cloud on top\nCaramel drizzle On Kona",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
@@ -2585,49 +2557,49 @@
   {
     "drink": "Sweet n Salty",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) pumps of toasted marshmallow syrup\n3/4 (three quarters) pumps of salted caramel sauce\n1 pump of white chocolate sauce\n1 espresso shot\nWHISK THOROUGHLY\nHalf and Half to 8 oz\nPour over ice\nSalted caramel drizzle\n\n● Medium (16 oz)\nIn a measuring cup:\n1 pump of toasted marshmallow syrup\n1 pump of salted caramel sauce\n1 1/2 (one and a half) pumps of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nHalf and Half to 10 oz\nPour over ice\nSalted caramel drizzle\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of toasted marshmallow syrup\n1 1/2 (one and a half) pumps of salted caramel sauce\n2 pumps of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nHalf and Half to 12 oz\nPour over ice\nSalted caramel drizzle\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n2 pumps of toasted marshmallow syrup\n2 pumps of salted caramel sauce\n3 pumps of white chocolate sauce\n4 espresso shots\nWHISK THOROUGHLY\nHalf and Half to 20 oz\nPour over ice\nSalted caramel drizzle",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Sweet n Salty HOT",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) pumps of toasted marshmallow syrup\n3/4 (three quarters) pumps of salted caramel sauce\n1 pump of white chocolate sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nHalf and Half to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nSalted caramel drizzle on top\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 pump of toasted marshmallow syrup\n1 pump of salted caramel sauce\n1 1/2 (one and a half) pumps of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nHalf and Half to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nSalted caramel drizzle on top\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of toasted marshmallow syrup\n1 1/2 (one and a half) pumps of salted caramel sauce\n2 pumps of white chocolate sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nHalf and Half to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nSalted caramel drizzle on top",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Salty Ex Boyfriend",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nAdd 2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nAdd 5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n4 oz Kona Cloud\n2 pumps of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Salty Ex Girlfriend",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of vanilla syrup\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nAdd 2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nPour on top of drink\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of vanilla syrup\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nPour on top of drink\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of vanilla syrup\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nPour on top of drink\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of vanilla syrup\n1 1/2 (one and a half) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nAdd 5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nCaramel sauce around rim of drink cup\nIn new measuring cup:\n4 oz Kona Cloud\n2 pumps of salted caramel sauce\nMIX THOROUGHLY\nPour on top of drink",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
   {
     "drink": "Salty Ex Boyfriend HOT",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of white chocolate sauce\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Salty Ex Girlfriend HOT",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) pumps of vanilla syrup\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz of Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of vanilla syrup\n3/4 (three quarters) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of vanilla syrup\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Salty Kiss",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 espresso shot\n4 oz Maui Milk\nMilk of Choice to 8 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Medium (16 oz)\nIn a measuring cup:\n2 espresso shots\n6 oz Maui Milk\nMilk of Choice to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● Large (24 oz)\nIn a measuring cup:\n2 espresso shots\n7 oz Maui Milk\nMilk of Choice to 12 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n1 pump of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 espresso shots\n12 oz Maui Milk\nMilk of Choice to 20 oz\nPour over ice\nIn new measuring cup:\n4 oz Kona Cloud\n2 pumps of salted caramel sauce\nMIX THOROUGHLY\nAdd on top of drink",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
@@ -2641,7 +2613,7 @@
   {
     "drink": "Fried Banana Latte",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of banana syrup\n1/2 (one half) pumps of caramel sauce\n1 espresso shot\nWHISK THOROUGHLY\nAdd 2 oz of Half and Half\nMilk of Choice to 8 oz\nPour over ice\nCaramel sauce around rim of drink cup\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of banana syrup\n1 pump of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\nCaramel sauce around rim of drink cup\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of banana syrup\n1 1/2 (one and a half) pumps of caramel sauce\n2 espresso shots\nWHISK THOROUGHLY\nAdd 2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\nCaramel sauce around rim of drink cup\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of banana syrup\n2 pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\nAdd 5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\nCaramel sauce around rim of drink cup",
-    "category": "Iced Drinks",
+    "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
   },
@@ -2683,21 +2655,21 @@
   {
     "drink": "Lilikoi Matcha",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n2 pumps of passionfruit syrup\nMIX THOROUGHLY\nPour on top\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n2 pumps of passionfruit syrup\nMIX THOROUGHLY\nPour on top\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n2 pumps of passionfruit syrup\nMIX THOROUGHLY\nPour on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice\nIn new measuring cup:\n4 oz Kona Cloud\n4 pumps of passionfruit syrup\nMIX THOROUGHLY\nPour on top",
-    "category": "Matcha\nCoffee Free - Not Blended",
-    "mela_category": "Matcha\nCoffee Free - Not Blended",
+    "category": "Matcha",
+    "mela_category": "Matcha",
     "hidden": false
   },
   {
     "drink": "Chocolate Covered Strawberry Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of mocha powder\n3/4 (three quarters) pumps of strawberry syrup\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\nWhole milk to 10 oz\n2 oz Half and Half\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a separate measuring cup:\n2 oz Kona Cloud\n1 pump of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of mocha powder\n1 pump of strawberry syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nWhole milk to 12 oz\n2 1/2 (two and a half) oz Half and Half\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a separate measuring cup:\n2 oz Kona Cloud\n1 pump of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of mocha powder\n1 1/2 (one and a half) pumps of strawberry syrup\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\nWhole milk to 14 oz\n2 1/2 (two and a half) oz Half and Half\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nIn a separate measuring cup:\n2 oz Kona Cloud\n1 pump of strawberry syrup\nMIX THOROUGHLY\nChocolate drizzle & chocolate curls on top",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
   {
     "drink": "Churro Latte Hot",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/4 (one and a quarter) pumps of white chocolate sauce\n3/4 (three quarters) scoop of brown sugar powder\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz Half and Half\nMilk of Choice to 8 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud and churro sprinkle\n(Churro sprinkle: cinnamon powder and raw sugar crystals)\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 pumps of white chocolate sauce\n1 scoop of brown sugar powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz Half and Half\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud and churro sprinkle\n(Churro sprinkle: cinnamon powder and raw sugar crystals)\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 1/2 (one and a half) scoops of brown sugar powder\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz Half and Half\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nAdd Kona Cloud and churro sprinkle\n(Churro sprinkle: cinnamon powder and raw sugar crystals)",
-    "category": "Hot Drinks",
+    "category": "Supreme Hot",
     "mela_category": "Supreme Hot",
     "hidden": false
   },
@@ -2718,8 +2690,8 @@
   {
     "drink": "Milky Way Blended",
     "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 small scoops of mocha powder\n1 pump of caramel sauce\nIn a measuring cup:\n1 espresso shot\nMilk to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nCaramel drizzle\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n6 small scoops of mocha powder\n2 pumps of caramel sauce\nIn a measuring cup:\n2 espresso shots\nMilk to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nCaramel drizzle\nPour blended drink into the drink cup\n*If requested, add whipped cream\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n8 small scoops of mocha powder\n3 pumps of caramel sauce\nIn a measuring cup:\n2 espresso shots\nMilk to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nCaramel drizzle\nPour blended drink into the drink cup\n*If requested, add whipped cream",
-    "category": "Misc Blended\nCandy Bar Drinks",
-    "mela_category": "Misc Blended\nCandy Bar Drinks",
+    "category": "Misc Blended",
+    "mela_category": "Misc Blended",
     "hidden": false
   },
   {
@@ -2829,14 +2801,14 @@
   },
   {
     "drink": "Cookie Butter Matcha Iced",
-    "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice\nIn new measuring cup:\n4 oz of Kona Cloud\n2 scoops of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud",
+    "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 8 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 12 oz\nPour over ice\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n5 scoops of matcha powder\nSplash of hot water\nMIX THOROUGHLY\nMilk of Choice to 20 oz\nPour over ice\nIn new measuring cup:\n4 oz of Kona Cloud\n2 scoops of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud",
     "category": "Matcha",
     "mela_category": "Matcha",
     "hidden": false
   },
   {
     "drink": "Cookie Butter Matcha Hot",
-    "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer to steam pitcher\nSteam to desired temp\nPour in hot drink cup\nMix thoroughly\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer to steam pitcher\nSteam to desired temp\nPour in hot drink cup\nMix thoroughly\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Large (20 oz)\nIn a hot drink cup:\n3 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer to steam pitcher\nSteam to desired temp\nPour in hot drink cup\nMix thoroughly\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud",
+    "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nMIX THOROUGHLY\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nMIX THOROUGHLY\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud\n\n● Large (20 oz)\nIn a hot drink cup:\n3 scoops of matcha powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nMIX THOROUGHLY\nIn new measuring cup:\n2 oz of Kona Cloud\n1 scoop of cookie butter crumbs\nMIX THOROUGHLY\nPour on top of Matcha\nLayer of cookie crumb on Kona Cloud",
     "category": "Matcha",
     "mela_category": "Matcha",
     "hidden": false
@@ -2895,13 +2867,6 @@
     "recipe": "● Small (12 oz)\nAdd 1 scoop of strawberry boba in drink cup\nIn a measuring cup:\n1/4 (one quarter) pumps of strawberry syrup\n1/2 (one half) pumps of peach syrup\n1/4 (one quarter) pumps of white chocolate sauce\nWater to 2 oz\nLemonade to 7 oz\nWHISK THOROUGHLY\nPour over ice\n\n● Medium (16 oz)\nAdd 1 1/2 (one and a half) scoops of strawberry boba in drink cup\nIn a measuring cup:\n1/2 (one half) pumps of strawberry syrup\n3/4 (three quarters) pumps of peach syrup\n1/2 (one half) pumps of white chocolate sauce\nWater to 4 oz\nLemonade to 9 oz\nWHISK THOROUGHLY\nPour over ice\n\n● Large (24 oz)\nAdd 2 scoops of strawberry boba in drink cup\nIn a measuring cup:\n1 pump of strawberry syrup\n1 1/4 (one and a quarter) pumps of peach syrup\n1 pump of white chocolate sauce\nWater to 6 oz\nLemonade to 11 oz\nWHISK THOROUGHLY\nPour over ice\n\n● X-tra Large (32 oz)\nAdd 3 scoops of strawberry boba in drink cup\nIn a measuring cup:\n1 pump of strawberry syrup\n1 1/2 (one and a half) pumps of peach syrup\n1 pump of white chocolate sauce\nWater to 8 oz\nLemonade to 18 oz\nWHISK THOROUGHLY\nPour over ice",
     "category": "Tea & Refreshers",
     "mela_category": "Tea & Refreshers",
-    "hidden": false
-  },
-  {
-    "drink": "Spiced Chai Hot",
-    "recipe": "● Small (12 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\n\n● Large (20 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of spiced chai powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup",
-    "category": "Coffee Free",
-    "mela_category": "Coffee Free - Not Blended",
     "hidden": false
   },
   {
