@@ -2882,5 +2882,12 @@
     "category": "Blended Drinks",
     "mela_category": "Blended Drinks",
     "hidden": false
+  },
+  {
+    "drink": "S'mores Cold Brew",
+    "recipe": "● Small (12 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of toasted marshmallow syrup\nCold brew to 6 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n2 pumps of toasted marshmallow syrup\nMIX THOROUGHLY\nPour on top of cold brew\nChocolate drizzle\nGraham cracker dust\n\n● Medium (16 oz)\nIn a measuring cup:\n2 pumps of toasted marshmallow syrup\nCold brew to 8 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n2 pumps of toasted marshmallow syrup\nMIX THOROUGHLY\nPour on top of cold brew\nChocolate drizzle\nGraham cracker dust\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of toasted marshmallow syrup\nCold brew to 10 oz\nPour over ice\nIn new measuring cup:\n2 oz Kona Cloud\n2 pumps of toasted marshmallow syrup\nMIX THOROUGHLY\nPour on top of cold brew\nChocolate drizzle\nGraham cracker dust",
+    "category": "Cold Brew",
+    "mela_category": "Cold Brew",
+    "hidden": false
   }
 ]
