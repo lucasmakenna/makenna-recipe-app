@@ -20,3 +20,6 @@ create policy "Public read access" on recipes
 
 -- Added for hide/show + view-only access feature
 alter table recipes add column if not exists hidden boolean not null default false;
+
+-- Add unique constraint on drink name to support upserts (run once)
+ALTER TABLE recipes ADD CONSTRAINT recipes_drink_unique UNIQUE (drink);
