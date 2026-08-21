@@ -46,6 +46,14 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
           <Link href="/" className="inline-flex items-center gap-1 text-sm font-semibold text-ink-500 hover:text-ink-700">
             <ArrowLeft size={16} /> All recipes
           </Link>
+          {recipe && (
+            <div className="mt-1">
+              <div className="text-xs font-semibold uppercase tracking-wide text-cyan-500">
+                {recipe.category || 'Uncategorized'}
+              </div>
+              <h1 className="text-lg font-bold text-ink-700 leading-tight">{recipe.drink}</h1>
+            </div>
+          )}
         </div>
       </div>
       <div className="mx-auto max-w-2xl px-4 py-6">
@@ -54,10 +62,6 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
 
         {recipe && (
           <div className="card p-6">
-            <div className="mb-1 text-xs font-semibold uppercase tracking-wide text-cyan-500">
-              {recipe.category || 'Uncategorized'}
-            </div>
-            <h1 className="mb-4 text-2xl font-bold text-ink-700">{recipe.drink}</h1>
             <pre className="whitespace-pre-wrap font-sans text-sm leading-loose text-ink-600">
               {recipe.recipe.replace(/\n/g, '\n\n')}
             </pre>
