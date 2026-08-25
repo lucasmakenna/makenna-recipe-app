@@ -60,14 +60,15 @@ function HomeInner({ role }: { role: AccessRole }) {
 
   const filtered = useMemo(() => {
     if (!recipes) return [];
-    const q = search.trim().toLowerCase();
+    const norm = (s: string) => s.toLowerCase().replace(/['']/g, '');
+    const q = norm(search.trim());
     const words = q ? q.split(/\s+/).filter(Boolean) : [];
     const matches = recipes.filter((r) => {
       if (role !== 'admin' && r.hidden) return false;
       if (category !== 'all' && (r.category || 'Uncategorized') !== category) return false;
       if (!words.length) return true;
-      const name = r.drink.toLowerCase();
-      const recipe = r.recipe.toLowerCase();
+      const name = norm(r.drink);
+      const recipe = norm(r.recipe);
       return words.every((w) => name.includes(w) || recipe.includes(w));
     });
 
@@ -75,7 +76,7 @@ function HomeInner({ role }: { role: AccessRole }) {
 
     // Prioritize matches where all words appear in the drink name; fall back to recipe matches
     return [...matches].sort((a, b) => {
-      const name = (r: typeof a) => r.drink.toLowerCase();
+      const name = (r: typeof a) => norm(r.drink);
       const aName = words.every((w) => name(a).includes(w)) ? 0 : 1;
       const bName = words.every((w) => name(b).includes(w)) ? 0 : 1;
       if (aName !== bName) return aName - bName;
