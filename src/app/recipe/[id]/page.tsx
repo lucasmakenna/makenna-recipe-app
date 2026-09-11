@@ -62,7 +62,7 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
 
         {recipe && (
           <div className="card p-6">
-            <pre className="whitespace-pre-wrap font-sans text-xl leading-loose text-ink-600">
+            <pre className="whitespace-pre-wrap font-sans text-2xl leading-loose text-ink-600">
               {recipe.recipe.replace(/\n/g, '\n\n')}
             </pre>
             {role === 'admin' && (
