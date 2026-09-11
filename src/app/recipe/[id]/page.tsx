@@ -51,7 +51,7 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
               <div className="text-xs font-semibold uppercase tracking-wide text-cyan-500">
                 {recipe.category || 'Uncategorized'}
               </div>
-              <h1 className="text-2xl font-bold text-ink-700 leading-tight">{recipe.drink}</h1>
+              <h1 className="text-3xl font-bold text-ink-700 leading-tight">{recipe.drink}</h1>
             </div>
           )}
         </div>
@@ -62,7 +62,7 @@ function RecipeDetailInner({ role }: { role: AccessRole }) {
 
         {recipe && (
           <div className="card p-6">
-            <pre className="whitespace-pre-wrap font-sans text-base leading-loose text-ink-600">
+            <pre className="whitespace-pre-wrap font-sans text-xl leading-loose text-ink-600">
               {recipe.recipe.replace(/\n/g, '\n\n')}
             </pre>
             {role === 'admin' && (

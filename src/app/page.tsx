@@ -212,7 +212,7 @@ function HomeInner({ role }: { role: AccessRole }) {
                   className={`card flex items-center justify-between gap-3 p-4 transition hover:shadow-md hover:border-cyan-300 ${r.hidden ? 'opacity-50' : ''}`}
                 >
                   <div className="min-w-0">
-                    <div className="truncate text-base font-bold text-ink-700">
+                    <div className="truncate text-lg font-bold text-ink-700">
                       {r.drink} {r.hidden && <span className="ml-1 text-xs font-normal text-hibiscus-500">(hidden)</span>}
                     </div>
                     <div className="truncate text-sm text-ink-400">{r.category || 'Uncategorized'}</div>
