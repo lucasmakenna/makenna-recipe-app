@@ -141,7 +141,7 @@
   },
   {
     "drink": "Banana Protein (Iced)",
-    "recipe": "ONLY 24 oz\n\nFill cup 90% with ice\n\nIn blender\nCup with 90% ice\n2 scoops (yellow handle, or 1 if using clear scooper) vanilla protein powder\n1 whole banana\n2 scoops of peanut butter\nIn a measuring cup:\n6 oz nonfat milk\nPour into blender\nblend at 4\n** honey drizzle around cup then pour shake",
+    "recipe": "ONLY 24 oz\nFill cup 90% with ice\nIn blender\nCup with 90% ice\n2 scoops vanilla protein powder\n1 whole banana\n2 scoops of peanut butter\nIn a measuring cup:\n6 oz nonfat milk\nPour into blender\nblend at 4\n** honey drizzle around cup then pour shake",
     "category": "Protein Drinks",
     "mela_category": "Protein Drinks",
     "hidden": false
@@ -330,7 +330,7 @@
   },
   {
     "drink": "Blueberry Protein (Iced)",
-    "recipe": "ONLY 24 oz\n\nIn cup: 4 scoops of blueberries\nThen fill the rest of cup to 90% with ice\n\nIn blender\nBlueberries and Cup with 90% ice\n2 scoops (yellow handle, or 1 if using clear scooper) vanilla protein powder\n1 whole banana\n2 scoops of peanut butter\nIn a measuring cup:\n6 oz nonfat milk\nPour into blender\nblend at 4\n** honey drizzle around cup then pour shake",
+    "recipe": "ONLY 24 oz\nIn cup: 4 scoops of blueberries\nThen fill the rest of cup to 90% with ice\nIn blender\nBlueberries and Cup with 90% ice\n2 scoops vanilla protein powder\n1 whole banana\n2 scoops of peanut butter\nIn a measuring cup:\n6 oz nonfat milk\nPour into blender\nblend at 4\n** honey drizzle around cup then pour shake",
     "category": "Protein Drinks",
     "mela_category": "Protein Drinks",
     "hidden": false
@@ -1597,7 +1597,7 @@
   },
   {
     "drink": "Mocha Protein (Iced)",
-    "recipe": "ONLY 24 oz\n\nFill cup 90% with ice\n\nIn blender\nCup with 90% ice\n2 scoops (yellow handle, or 1 if using clear scooper) mocha protein\n1 whole banana\n2 scoops of peanut butter\nIn a measuring cup:\n6 oz nonfat milk\nPour into blender\nblend at 4\n**honey drizzle around cup then pour drink",
+    "recipe": "ONLY 24 oz\nFill cup 90% with ice\nIn blender\nCup with 90% ice\n2 scoops mocha protein\n1 whole banana\n2 scoops of peanut butter\nIn a measuring cup:\n6 oz nonfat milk\nPour into blender\nblend at 4\n**honey drizzle around cup then pour drink",
     "category": "Protein Drinks",
     "mela_category": "Protein Drinks",
     "hidden": false
@@ -1871,7 +1871,7 @@
   {
     "drink": "Protein Pumpkin Spiced Latte (Hot)",
     "category": "Fall Drinks",
-    "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla protein powder\n1 1/2 (one and a half) pumps of pumpkin pie sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz H&H\nMilk of choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of vanilla protein powder\n2 pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz H&H\nMilk of choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Large (20 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla protein powder\n2 1/2 (two and a half) pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz H&H\nMilk of choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder",
+    "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla protein powder\n1 1/2 (one and a half) pumps of pumpkin pie sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz H&H\nMilk of choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of vanilla protein powder\n2 pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz H&H\nMilk of choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Large (24 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla protein powder\n2 1/2 (two and a half) pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz H&H\nMilk of choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder",
     "hidden": false
   },
   {
@@ -2216,7 +2216,7 @@
   },
   {
     "drink": "Shark Bite (Blended)",
-    "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n5 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n8 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top",
+    "recipe": "● Small (12 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n3 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 6 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry puree drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● Medium (16 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n4 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 7 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry puree drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● Large (24 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n5 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 8 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry puree drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top\n\n● X-tra Large (32 oz)\nIn a blender:\nHeaping cup of ice from drink cup\n8 scoops of vanilla bean powder\nIn a measuring cup:\nMilk of Choice to 14 oz\nPour measuring cup into blender, lid on\nBlend on 4\nIn the drink cup:\nStrawberry puree drizzle around inside of drink cup\nPour blended drink into the drink cup\n*If requested, add whipped cream\nAdd gummy sharks on top",
     "category": "Freezes",
     "mela_category": "Freezes",
     "hidden": false
