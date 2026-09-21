@@ -960,7 +960,7 @@
   },
   {
     "drink": "Heart Attack (Iced)",
-    "recipe": "● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\ncaramel drizzle\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\ncaramel drizzle\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of caramel sauce\n6 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\ncaramel drizzle",
+    "recipe": "● Medium (16 oz)\nIn a measuring cup:\n2 pumps of white chocolate sauce\n3/4 (three quarters) pumps of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 10 oz\nPour over ice\ncaramel drizzle\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of white chocolate sauce\n1 pump of caramel sauce\n4 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz of Half and Half\nMilk of Choice to 12 oz\nPour over ice\ncaramel drizzle\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n4 pumps of white chocolate sauce\n1 1/2 (one and a half) pumps of caramel sauce\n6 espresso shots\nWHISK THOROUGHLY\n5 oz of Half and Half\nMilk of Choice to 20 oz\nPour over ice\ncaramel drizzle",
     "category": "Supreme Iced",
     "mela_category": "Supreme Iced",
     "hidden": false
@@ -1855,6 +1855,13 @@
     "hidden": false
   },
   {
+    "drink": "Poppin Strawberry Makenna Energy (Iced)",
+    "recipe": "● Medium (16 oz)\nIn drink cup:\n3 pumps of strawberry syrup\nAdd 1 Makenna Energy can\nAdd ice\nAdd Kona Cloud\nPop rocks on top\n\n● Large (24 oz)\nIn drink cup:\n5 pumps of strawberry syrup\nAdd 1 1/2 (one and a half) Makenna Energy cans\nAdd ice\nAdd Kona Cloud\nPop rocks on top\n\n● X-tra Large (32 oz)\nIn drink cup:\n6 pumps of strawberry syrup\nAdd 2 Makenna Energy cans\nAdd ice\nAdd Kona Cloud\nPop rocks on top",
+    "category": "Makenna Energy",
+    "mela_category": "Makenna Energy",
+    "hidden": false
+  },
+  {
     "drink": "Poppin Strawberry Makenna Energy (Slushy)",
     "recipe": "● Medium (16 oz)\nIn a measuring cup:\n1 1/2 (one and a half) pumps of strawberry syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\nAdd Kona Cloud\nPop rocks on top\n\n● Large (24 oz)\nIn a measuring cup:\n2 1/2 (two and a half) pumps of strawberry syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\nAdd Kona Cloud\nPop rocks on top\n\n● X-tra Large (32 oz)\nIn a measuring cup:\n3 pumps of strawberry syrup\nAdd Makenna Energy slush\nMIX THOROUGHLY\nAdd Kona Cloud\nPop rocks on top",
     "category": "Makenna Energy Slushy",
@@ -1872,13 +1879,15 @@
     "drink": "Protein Pumpkin Spiced Latte (Hot)",
     "category": "Fall Drinks",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n3/4 (three quarters) scoops of vanilla protein powder\n1 1/2 (one and a half) pumps of pumpkin pie sauce\n1 espresso shot\nWHISK THOROUGHLY\nIn a measuring cup:\n2 oz H&H\nMilk of choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Medium (16 oz)\nIn a hot drink cup:\n1 scoop of vanilla protein powder\n2 pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz H&H\nMilk of choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Large (24 oz)\nIn a hot drink cup:\n1 1/2 (one and a half) scoops of vanilla protein powder\n2 1/2 (two and a half) pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\nIn a measuring cup:\n2 1/2 (two and a half) oz H&H\nMilk of choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour steamed milk into hot drink cup\nTop with Kona Cloud\nAdd pumpkin spice powder",
-    "hidden": false
+    "hidden": false,
+    "mela_category": "Fall Drinks"
   },
   {
     "drink": "Protein Pumpkin Spiced Latte (Iced)",
     "category": "Fall Drinks",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n3/4 (three quarters) scoops of vanilla protein powder\n1 1/2 (one and a half) pumps of pumpkin pie sauce\n1 espresso shot\nWHISK THOROUGHLY\n2 oz H&H\nMilk of choice to 8 oz\nWHISK THOROUGHLY\nPour over ice\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Medium (16 oz)\nIn a measuring cup:\n1 scoop of vanilla protein powder\n2 pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz H&H\nMilk of choice to 10 oz\nWHISK THOROUGHLY\nPour over ice\nTop with Kona Cloud\nAdd pumpkin spice powder\n\n● Large (24 oz)\nIn a measuring cup:\n1 1/2 (one and a half) scoops of vanilla protein powder\n2 1/2 (two and a half) pumps of pumpkin pie sauce\n2 espresso shots\nWHISK THOROUGHLY\n2 1/2 (two and a half) oz H&H\nMilk of choice to 12 oz\nWHISK THOROUGHLY\nPour over ice\nTop with Kona Cloud\nAdd pumpkin spice powder",
-    "hidden": false
+    "hidden": false,
+    "mela_category": "Fall Drinks"
   },
   {
     "drink": "PUMPKIN CHAI (Iced)",
@@ -1912,13 +1921,15 @@
     "drink": "Pumpkin Creme Matcha (Hot)",
     "category": "Fall Drinks",
     "recipe": "● Small (12 oz)\nIn a hot drink cup:\n2 scoops of matcha powder\nIn a measuring cup:\nMilk of choice to 10 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour splash of steamed milk into hot drink cup\nWHISK THOROUGHLY\nPour rest of steamed milk into hot drink cup\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of pumpkin pie sauce\nWHISK THOROUGHLY\nPour over drink\nAdd pumpkin spice powder\n\n● Medium (16 oz)\nIn a hot drink cup:\n2 1/2 (two and a half) scoops of matcha powder\nIn a measuring cup:\nMilk of choice to 12 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour splash of steamed milk into hot drink cup\nWHISK THOROUGHLY\nPour rest of steamed milk into hot drink cup\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of pumpkin pie sauce\nWHISK THOROUGHLY\nPour over drink\nAdd pumpkin spice powder\n\n● Large (20 oz)\nIn a hot drink cup:\n3 scoops of matcha powder\nIn a measuring cup:\nMilk of choice to 14 oz\nTransfer into steaming pitcher\nSteam to desired temperature\nPour splash of steamed milk into hot drink cup\nWHISK THOROUGHLY\nPour rest of steamed milk into hot drink cup\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of pumpkin pie sauce\nWHISK THOROUGHLY\nPour over drink\nAdd pumpkin spice powder",
-    "hidden": false
+    "hidden": false,
+    "mela_category": "Fall Drinks"
   },
   {
     "drink": "Pumpkin Creme Matcha (Iced)",
     "category": "Fall Drinks",
     "recipe": "● Small (12 oz)\nIn a measuring cup:\n2 scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of choice to 8 oz\nPour over ice\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of pumpkin pie sauce\nWHISK THOROUGHLY\nPour over drink\nAdd pumpkin spice powder\n\n● Medium (16 oz)\nIn a measuring cup:\n2 1/2 (two and a half) scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of choice to 10 oz\nPour over ice\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of pumpkin pie sauce\nWHISK THOROUGHLY\nPour over drink\nAdd pumpkin spice powder\n\n● Large (24 oz)\nIn a measuring cup:\n3 scoops of matcha powder\nSplash of hot water\nWHISK THOROUGHLY\nMilk of choice to 12 oz\nPour over ice\nIn a new measuring cup:\n2 oz Kona Cloud\n1 pump of pumpkin pie sauce\nWHISK THOROUGHLY\nPour over drink\nAdd pumpkin spice powder",
-    "hidden": false
+    "hidden": false,
+    "mela_category": "Fall Drinks"
   },
   {
     "drink": "PUMPKIN CREME SPICE LATTE (Iced)",
